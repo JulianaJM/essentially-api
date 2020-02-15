@@ -1,0 +1,25 @@
+{
+  "name": "essentially-api",
+  "version": "1.0.0",
+  "description": "essential oils api",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node ./server/www",
+    "dev": "nodemon ./server/www",
+    "dev:debug": "nodemon --inspect ./server/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "elasticsearch": "^16.3.0",
+    "express": "^4.17.1",
+    "log": "^6.0.0",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
