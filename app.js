@@ -3,7 +3,6 @@ require("dotenv").config();
 const bodyParser = require("body-parser");
 const express = require("express");
 const elasticsearch = require("./datasource/connection");
-const elasticsearchService = require("./services/elasticsearch");
 const logger = require("morgan");
 const initCluster = require("./resources/init-data");
 const routes = require("./routes/index");
@@ -13,9 +12,9 @@ const app = express();
 // ping the client to be sure Elasticsearch is up
 elasticsearch.ping(
   {
-    requestTimeout: 30000
+    requestTimeout: 30000,
   },
-  function(error) {
+  function (error) {
     // at this point, eastic search is down, please check your Elasticsearch service
     if (error) {
       console.error("elasticsearch cluster is down!");
@@ -31,14 +30,21 @@ app.use(logger("dev"));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
-app.get("/random", function(req, res) {
-  elasticsearchService
-    .getRandomOils()
-    .then(results => res.json(results.hits))
-    .catch(err => {
-      console.log(err);
-      res.send(err);
-    });
+// app.get("/random", function(req, res) {
+//   elasticsearchService
+//     .getRandomOils()
+//     .then(results => res.json(results.hits))
+//     .catch(err => {
+//       console.log(err);
+//       res.send(err);
+//     });
+// });
+
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Methods", "GET,HEAD,OPTIONS,POST,PUT");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept, Authorization");
+  next();
 });
 
 app.use("/api", routes);

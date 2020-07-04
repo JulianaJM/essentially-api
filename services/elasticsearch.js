@@ -36,54 +36,54 @@ const buildFullTextSearchQuery = (terms, offset) => {
           "beauty.indicationsDesc",
           "health.indications",
           "mood.indications",
-          "beauty.indications"
-        ]
-      }
+          "beauty.indications",
+        ],
+      },
     },
     highlight: {
       fields: {
-        "*": {}
-      }
-    }
+        "*": {},
+      },
+    },
   };
   return body;
 };
 
 module.exports = {
-  search: function(terms, offset) {
+  search: function (terms, offset) {
     const body = buildFullTextSearchQuery(terms, offset);
     return client.search({
       index: INDEX,
-      body
+      body,
     });
   },
 
-  searchAll: function() {
+  searchAll: function () {
     return client.search({
       index: INDEX,
       body: {
         size: MAX_SIZE,
         query: {
-          match_all: { boost: 1.2 }
-        }
-      }
+          match_all: { boost: 1.2 },
+        },
+      },
     });
   },
 
-  searchByName: function(name) {
+  searchByName: function (name) {
     return client.search({
       index: INDEX,
       body: {
         query: {
           match_phrase: {
-            name
-          }
-        }
-      }
+            name,
+          },
+        },
+      },
     });
   },
 
-  getSuggestions: function(term) {
+  getSuggestions: function (term) {
     return client.search({
       index: INDEX,
       size: MAX_SIZE,
@@ -91,14 +91,14 @@ module.exports = {
         query: {
           multi_match: {
             query: term,
-            fields: ["name", "ideal"]
-          }
-        }
-      }
+            fields: ["name", "ideal"],
+          },
+        },
+      },
     });
   },
 
-  getRandomOils: function() {
+  getRandomOils: function () {
     return client.search({
       index: INDEX,
       body: {
@@ -108,13 +108,13 @@ module.exports = {
             functions: [
               {
                 random_score: {
-                  seed: "1518707649" // FIXME Pass the user’s session ID as the seed, to make randomization consistent for that user. The same seed will result in the same randomization.
-                }
-              }
-            ]
-          }
-        }
-      }
+                  seed: "1518707649", // FIXME Pass the user’s session ID as the seed, to make randomization consistent for that user. The same seed will result in the same randomization.
+                },
+              },
+            ],
+          },
+        },
+      },
     });
-  }
+  },
 };

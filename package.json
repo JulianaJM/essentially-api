@@ -11,6 +11,11 @@
     "dev": "nodemon ./server/www",
     "dev:debug": "nodemon --inspect ./server/www"
   },
+  "engines": {
+    "node": "10.16.3",
+    "npm": "6.10.3",
+    "yarn": "1.17.3"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.0.0",
@@ -20,6 +25,10 @@
     "morgan": "^1.9.1"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1"
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "^0.0.1-security",
+    "nodemon": "^1.19.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
   }
 }
