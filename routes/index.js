@@ -56,6 +56,7 @@ router.get("/oils/name", function (req, res) {
 });
 
 router.get("/oils/suggestions", function (req, res) {
+  console.log(req.query)
   elasticsearchService
     .getSuggestions(req.query.value)
     .then((results) => res.json(results.hits.hits))

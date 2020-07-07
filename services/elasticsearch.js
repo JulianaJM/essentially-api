@@ -21,16 +21,10 @@ const buildFullTextSearchQuery = (terms, offset) => {
     query: {
       query_string: {
         query: queryString,
-        // minimum_should_match: 2,
+        minimum_should_match: 2,
         fields: [
           "name",
           "ideal",
-          "health.synergies",
-          "mood.synergies",
-          "beauty.synergies",
-          "health.properties",
-          "mood.properties",
-          "beauty.properties",
           "health.indicationsDesc",
           "mood.indicationsDesc",
           "beauty.indicationsDesc",
@@ -89,9 +83,13 @@ module.exports = {
       size: MAX_SIZE,
       body: {
         query: {
-          multi_match: {
-            query: term,
-            fields: ["name", "ideal"],
+          query_string: {
+            query: `${term}~`,
+            // minimum_should_match: 2,
+            fields: [
+              "name",
+              "ideal",
+            ],
           },
         },
       },

@@ -31,13 +31,6 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 // app.get("/random", function(req, res) {
-//   elasticsearchService
-//     .getRandomOils()
-//     .then(results => res.json(results.hits))
-//     .catch(err => {
-//       console.log(err);
-//       res.send(err);
-//     });
 // });
 
 app.use(function(req, res, next) {
