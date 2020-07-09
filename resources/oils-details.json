@@ -1,7 +1,7 @@
 [
   {
     "name": "Huile essentielle de Vanille",
-    "image": "assets/images/vanille.jpg",
+    "image": "vanille.jpg",
     "description": "L'huile essentielle de vanille, outre son odeur agréable, possède des vertus régénérantes et protectrices.",
     "health": {
       "propertiesDesc": "Propriétés de l'huile essentielle de vanille :",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Huile essentielle d'Achillée millefeuille",
-    "image": "assets/images/achilleemillefeuille.jpg",
+    "image": "achilleemillefeuille.jpg",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'achillée millefeuille est :",
       "properties": [
@@ -123,7 +123,7 @@
   },
   {
     "name": "Huile essentielle d'Ahibero (citronnelle)",
-    "image": "assets/images/ahibero.jpg",
+    "image": "ahibero.jpg",
     "description": "Surtout connue pour son effet répulsif sur les moustiques, l’huile essentielle de citronnelle est également adaptée pour soulager les douleurs articulaires. Cette indication est cependant peu connue, de même que ses effets sur la transpiration. Il existe en fait deux types d’huile essentielle de citronnelle : la citronnelle de Ceylan est la plus réputée pour son effet répulsif, tandis que l’huile essentielle de citronnelle de Java est plus efficace contre les rhumatismes et les tendinites.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'ahibero est reconnue pour ces propriétés :",
@@ -220,7 +220,7 @@
   },
   {
     "name": "Huile essentielle d'Ail",
-    "image": "assets/images/ail.jpg",
+    "image": "ail.jpg",
     "description": "L'huile essentielle d'ail permet de prévenir et de soigner des troubles cardiovasculaires et infectieux.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'ail est reconnue pour ces propriétés :",
@@ -296,7 +296,7 @@
   },
   {
     "name": "Huile essentielle d'Ajowan",
-    "image": "assets/images/ajwain.jpg",
+    "image": "ajwain.jpg",
     "description": "L'huile essentielle d'ajowan (ou thym indien) est un antiseptique puissant. Elle est également tonifiante et permet de prévenir et traiter de nombreuses infections.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'ajowan est reconnue pour ces propriétés :",
@@ -371,7 +371,7 @@
   },
   {
     "name": "Huile essentielle d'Amande amère",
-    "image": "assets/images/amandeamere.jpg",
+    "image": "amandeamere.jpg",
     "description": "L'huile essentielle d'amande amère provient de l'amandier amer et non de l'amandier doux (d'où est extraite l'huile d'amande douce ou le lait d'amande). On la connaît pour sa saveur si particulière dans les galettes de frangipane au moment de l'Épiphanie. C'est une huile essentielle utilisée principalement en cuisine ou pour des soins cosmétiques. Elle n'est pas employée par les spécialistes en aromathérapie mais aurait cependant des propriétés antiseptique et vermifuge sur l'appareil digestif.",
     "health": {
       "propertiesDesc": "",
@@ -448,7 +448,7 @@
   },
   {
     "name": "Huile essentielle d'Amyris",
-    "image": "assets/images/amyris.jpg",
+    "image": "amyris.jpg",
     "description": "Une fragrance originale…si vous appréciez son odeur, versez une à deux gouttes d’huile essentielle de santal amyris sur vos vêtements, un foulard. Elle vous parfumera d’une note originale boisée douce et agréable.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'amyris est reconnue pour ces propriétés :",
@@ -508,7 +508,7 @@
   },
   {
     "name": "Huile essentielle d'Aneth",
-    "image": "assets/images/aneth.jpg",
+    "image": "aneth.jpg",
     "description": "L'huile essentielle d'aneth est appréciée pour stimuler l'appareil digestif ou dégager les voies respiratoires.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'aneth est reconnue pour ces propriétés :",
@@ -572,7 +572,7 @@
   },
   {
     "name": "Huile essentielle d'Angélique",
-    "image": "assets/images/angelique.jpg",
+    "image": "angelique.jpg",
     "description": "Souvent méconnue du grand public, l’huile essentielle d’angélique possède pourtant des bienfaits digestifs, anti-inflammatoires et des vertus relaxantes indéniables. Elle est également utilisée comme adoucissant pour la peau et comme remède aux troubles circulatoires.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'angélique est reconnue pour ces propriétés :",
@@ -655,7 +655,7 @@
   },
   {
     "name": "Huile essentielle d'Anis",
-    "image": "assets/images/anis.jpg",
+    "image": "anis.jpg",
     "description": "Plante herbacée de 80 cm qui aime le soleil. Les feuilles d’anis vert sont très utilisées en cuisine pour leur odeur et leurs propriétés digestives. Toute la plante est aromatique. Les fleurs sont blanches en ombelles et les fruits gris verdâtre.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'anis est reconnue pour ces propriétés :",
@@ -752,7 +752,7 @@
   },
   {
     "name": "Huile essentielle de Baies de Linaloe",
-    "image": "assets/images/linaloe.jpg",
+    "image": "linaloe.jpg",
     "description": "Tonique et régénérante, cette huile est une excellente alternative au Bois de Rose pour lutter contre les signes de l'âge. Son odeur douce est un véritable plaisir et elle est appréciée pour ses effets calmants en cas de nervosité.",
     "health": {
       "propertiesDesc": "",
@@ -818,7 +818,7 @@
   },
   {
     "name": "Huile essentielle de Baies roses",
-    "image": "assets/images/baiederose.jpg",
+    "image": "baiederose.jpg",
     "description": "Les notes épicées fraîches de l'huile essentielle de Baies roses ou faux poivrier sont intéressantes en parfumerie. Tonifiante et chauffante, l'huile essentielle de Baies roses est aussi l'alliée des sportifs: l'huile essentielle de Baies roses aide à préparer les muscles à l'effort et à calmer les courbatures et inconforts musculaires.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de baies roses est reconnue pour ces propriétés :",
@@ -897,7 +897,7 @@
   },
   {
     "name": "Huile essentielle de Basilic doux à linalol",
-    "image": "assets/images/basilic.jpg",
+    "image": "basilic.jpg",
     "description": "Davantage connu en cuisine, le basilic est très apprécié en aromathérapie. En huile essentielle, le basilic calme les ballonnements et favorise la digestion. Il est utilisé pour soulager les nausées. Il est également anti-infectieux, anti-inflammatoire et surtout antispasmodique : il apaise le système nerveux.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de basilic doux à linalol est reconnue pour ces propriétés :",
@@ -1008,7 +1008,7 @@
   },
   {
     "name": "Huile essentielle de Basilic sacré",
-    "image": "assets/images/basilic.jpg",
+    "image": "basilic.jpg",
     "description": "L'huile essentielle de Basilic sacré est traditionnellement conseillée pour lutter contre les problèmes de peau. Utile pour les peaux matures, l'huile essentielle de Basilic sacré est aussi connue comme actif anti-âge puissant. Fortement énergisante, l'huile essentielle de Basilic sacré est réputée pour ses effets stimulants sur le corps et l'esprit.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de basilic sacré est reconnue pour ces propriétés :",
@@ -1098,7 +1098,7 @@
   },
   {
     "name": "Huile essentielle de Basilic tropical",
-    "image": "assets/images/basilic.jpg",
+    "image": "basilic.jpg",
     "description": "L'huile essentielle de basilic exotique est antibactérienne et antispasmodique. Elle a aussi des propriétés équilibrantes du système nerveux.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de basilic tropical est reconnue pour ces propriétés :",
@@ -1190,7 +1190,7 @@
   },
   {
     "name": "Huile essentielle de Bay Saint Thomas",
-    "image": "assets/images/baysaintthomas.jpg",
+    "image": "baysaintthomas.jpg",
     "description": "L'huile essentielle de bay Saint-Thomas est idéale pour stopper la chute des cheveux ou la formation des pellicules. C'est une huile tonique.",
     "health": {
       "propertiesDesc": "",
@@ -1232,7 +1232,7 @@
   },
   {
     "name": "Huile essentielle de Bergamote",
-    "image": "assets/images/bergamote.jpg",
+    "image": "bergamote.jpg",
     "description": "Traditionnellement utilisée en cuisine, l’huile essentielle de bergamote présente aussi des vertus digestives et apaisantes. Elle est indispensable à toute personne souffrant de troubles de l’humeur, stress, angoisses, irritabilité et autres insomnies. Entre autres bienfaits, elle est aussi particulièrement efficace en cas de troubles digestifs et de désordres intestinaux.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de bergamote est reconnue pour ces propriétés :",
@@ -1335,7 +1335,7 @@
   },
   {
     "name": "Huile essentielle de Bergamote sans furocoumarines",
-    "image": "assets/images/bergamote.jpg",
+    "image": "bergamote.jpg",
     "description": "Purifiante, l'huile essentielle de Bergamote sans furocoumarines est non sensibilisante. L'huile essentielle de Bergamote sans furocoumarines est ainsi idéale pour réaliser des soins pour peaux grasse. Tonique, l'huile essentielle de Bergamote sans furocoumarines exhale une senteur hespéridée fraîche et raffinée ce qui la rend incontournable dans la composition de parfums.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de bergamote sans furocoumarines est reconnue pour ces propriétés :",
@@ -1436,7 +1436,7 @@
   },
   {
     "name": "Huile essentielle de Bois de Gaïac",
-    "image": "assets/images/boisdegaiaic.jpg",
+    "image": "boisdegaiaic.jpg",
     "description": "L'huile essentielle de bois de Gaïac aux vertus tonifiantes est connue pour apporter légèreté à vos jambes. L'huile essentielle de bois de Gaïac exhale une senteur suave et boisée très prisée pour parfumer les soins. En diffusion, diluée dans une autre huile, l'huile essentielle de bois de Gaïac libère un parfum exotique et sensuel envoûtant.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de bois de gaïac est reconnue pour ces propriétés :",
@@ -1480,7 +1480,7 @@
   },
   {
     "name": "Huile essentielle de Bois de Hô",
-    "image": "assets/images/boisdeho.jpg",
+    "image": "boisdeho.jpg",
     "description": "Très proche du Bois de Rose, cette huile riche en linalol offre les mêmes vertus toniques, revitalisantes et purifiantes. Positivante et relaxante, elle est également intéressante en cas de stress ou baisse de forme.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de bois de hô est reconnue pour ces propriétés :",
@@ -1565,7 +1565,7 @@
   },
   {
     "name": "Huile essentielle de Bois de rose",
-    "image": "assets/images/boisderose.jpg",
+    "image": "boisderose.jpg",
     "description": "Issue d'un bois précieux devenu rare, l'huile essentielle de bois de rose est surtout connue pour ses nombreuses vertus cutanées. Elle est dotée de puissantes propriétés régénératrices pour la peau et constitue un excellent antiseptique, mais également un antistress naturel grâce à son parfum doux et boisé.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de bois de rose est reconnue pour ces propriétés :",
@@ -1685,7 +1685,7 @@
   },
   {
     "name": "Huile essentielle de Bois de Siam",
-    "image": "assets/images/boisdesiam.jpg",
+    "image": "boisdesiam.jpg",
     "description": "Excellent tonique et énergisant, l'huile essentielle de bois de Siam est surtout connue pour ses propriétés stimulantes et aphrodisiaques chez l'homme. L'huile essentielle de bois de Siam dégage un parfum à la fois boisé et frais qui la rend très agréable pour réaliser des soins ou composer des parfums.",
     "health": {
       "propertiesDesc": "",
@@ -1738,7 +1738,7 @@
   },
   {
     "name": "Huile essentielle de Bouleau jaune",
-    "image": "assets/images/bouleaujaune.jpg",
+    "image": "bouleaujaune.jpg",
     "description": "Composée à plus de 97% de salicylate de méthyle, l'huile essentielle de Bouleau jaune est connue pour ses effets anti-inflammatoires. Traditionnellement conseillée en accompagnement en cas d'inconforts musculaires ou articulaires, l'huile essentielle de Bouleau jaune procure une sensation d'apaisement.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de bouleau jaune est reconnue pour ces propriétés :",
@@ -1806,7 +1806,7 @@
   },
   {
     "name": "Huile essentielle de Cade",
-    "image": "assets/images/boisdecade.jpg",
+    "image": "boisdecade.jpg",
     "description": "L'huile essentielle de cade est connue notamment pour ses propriétés parasiticides. Elle permet de lutter contre certaines affections de la peau, a une action antiseptique et peut servir de vermifuge. Elle est également préconisée pour les soins des cheveux et du cuir chevelu. Attention, ne pas la confondre avec l’huile de cade couramment utilisée en médecine vétérinaire avec succès.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cade est reconnue pour ces propriétés :",
@@ -1878,7 +1878,7 @@
   },
   {
     "name": "Huile essentielle de Cajeput",
-    "image": "assets/images/cajeput.jpg",
+    "image": "cajeput.jpg",
     "description": "L'huile essentielle de cajeput est utilisée pour lutter contre les infections respiratoires ainsi que comme tonique cutané.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cajeput est reconnue pour ces propriétés :",
@@ -1964,7 +1964,7 @@
   },
   {
     "name": "Huile essentielle de Camomille allemande",
-    "image": "assets/images/camomille.jpg",
+    "image": "camomille.jpg",
     "description": "L'huile essentielle de camomille allemande est un excellent anti-inflammatoire, antidouleurs et antispasmodique. Elle est également cicatrisante.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de camomille allemande est reconnue pour ces propriétés :",
@@ -2049,7 +2049,7 @@
   },
   {
     "name": "Huile essentielle de Camomille romaine",
-    "image": "assets/images/camomille.jpg",
+    "image": "camomille.jpg",
     "description": "L'huile essentielle de camomille romaine est une huile très douce qui peut être utilisée chez les enfants. Elle agit favorablement sur le système nerveux, favorise le sommeil, mais elle est aussi calmante pour le système digestif, anti-inflammatoire, bactéricide. C'est un antistress et un cicatrisant.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de camomille romaine est reconnue pour ces propriétés :",
@@ -2159,7 +2159,7 @@
   },
   {
     "name": "Huile essentielle de Camphrier",
-    "image": "assets/images/camphrier.jpg",
+    "image": "camphrier.jpg",
     "description": "L'huile essentielle de camphre est réputée pour ses nombreuses qualités, et la liste des propriétés thérapeutiques qui lui sont associées est immense. Principalement utilisée en médecine et en usage externe pour la peau, elle tire ses propriétés du camphrier, valeur sûre de l'aromathérapie utilisée depuis des siècles en Chine pour l'élaboration du célèbre baume du tigre.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de camphrier est reconnue pour ces propriétés :",
@@ -2209,7 +2209,7 @@
   },
   {
     "name": "Huile essentielle de Cannelle de Ceylan",
-    "image": "assets/images/canelle.jpg",
+    "image": "canelle.jpg",
     "description": "Originaire du sud de l’Asie orientale, l’huile essentielle de cannelle de Ceylan est particulièrement efficace pour la défense de l’organisme face aux infections virales et bactériennes. Il convient donc de ne pas l'oublier lors de voyages à l’étranger notamment. Elle est également un puissant stimulant du système immunitaire.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cannelle de ceylan écorce est reconnue pour ces propriétés :",
@@ -2330,7 +2330,7 @@
   },
   {
     "name": "Huile essentielle de Cannelle de Ceylan feuilles",
-    "image": "assets/images/canelle.jpg",
+    "image": "canelle.jpg",
     "description": "Les feuilles du cannelier donnent une huile essentielle épicée et proche du clou de girofle connue pour ses propriétés purifiantes. L'huile essentielle de Cannelle feuilles est également intéressante pour atténuer les mauvaises odeurs (cuisson, tabac,...).",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cannelle de ceylan feuilles est reconnue pour ces propriétés :",
@@ -2386,7 +2386,7 @@
   },
   {
     "name": "Huile essentielle de Cannelle de Chine",
-    "image": "assets/images/canelle.jpg",
+    "image": "canelle.jpg",
     "description": "L’huile essentielle de cannelle de Chine est particulièrement puissante pour lutter contre toutes les infections, qu’elles soient virales, bactériennes ou parasitaires. Elle est également un excellent tonique et participe au bien-être émotionnel. Attention, il convient de distinguer l’huile essentielle issue de l’écorce, la plus courante, de l’huile essentielle extraite des feuilles.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cannelle de chine  est reconnue pour ces propriétés :",
@@ -2507,7 +2507,7 @@
   },
   {
     "name": "Huile essentielle de Cannelle Tamala",
-    "image": "assets/images/canelletamala.jpg",
+    "image": "canelletamala.jpg",
     "description": "L'huile essentielle de Cannelle tamala est doté d'une senteur originale et épicée qui se marie à merveille avec des notes d'agrumes en diffusion. L'huile essentielle de Cannelle tamala est également très appréciée pour composer des parfums avec notamment des accords orientaux. L'huile essentielle de Cannelle tamala est aussi réputée pour apaiser les tensions et lutter contre le stress.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cannelle tamala est reconnue pour ces propriétés :",
@@ -2564,7 +2564,7 @@
   },
   {
     "name": "Huile essentielle de Cardamome",
-    "image": "assets/images/cardamome.jpg",
+    "image": "cardamome.jpg",
     "description": "L'huile essentielle de cardamome favorise la digestion. Elle est expectorante.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cardamome est reconnue pour ces propriétés :",
@@ -2649,7 +2649,7 @@
   },
   {
     "name": "Huile essentielle de Carotte",
-    "image": "assets/images/carotte.jpg",
+    "image": "carotte.jpg",
     "description": "Si l'adage dit que la carotte \"rend aimable\" ou permet d’améliorer sa vue, sous forme d’huile essentielle elle possède bien d’autres vertus, puisqu’elle agirait, entre autres, sur divers problèmes de peau et serait active pour la régénération de l’organisme.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de carotte est reconnue pour ces propriétés :",
@@ -2740,7 +2740,7 @@
   },
   {
     "name": "Huile essentielle de Carvi",
-    "image": "assets/images/carvi.jpg",
+    "image": "carvi.jpg",
     "description": "L’huile essentielle de carvi est particulièrement réputée pour ses propriétés digestives.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de carvi est reconnue pour ces propriétés :",
@@ -2798,7 +2798,7 @@
   },
   {
     "name": "Huile essentielle de Cèdre de l'Atlas",
-    "image": "assets/images/cedre.png",
+    "image": "cedre.png",
     "description": "L'huile essentielle de cèdre de l'Atlas permet de lutter contre la cellulite et la rétention d'eau et aussi contre la perte des cheveux ou les pellicules.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cèdre de l'atlas est reconnue pour ces propriétés :",
@@ -2899,7 +2899,7 @@
   },
   {
     "name": "Huile essentielle de Cèdre de l'Himalaya",
-    "image": "assets/images/cedre.png",
+    "image": "cedre.png",
     "description": "Purifiante, l'huile essentielle de Cèdre de l'Himalaya est conseillée dans les soins des peaux grasses. Dotée d'une action antipelliculaire, l'huile essentielle de Cèdre de l'Himalaya est particulièrement intéressante dans les soins capillaires. L'huile essentielle de Cèdre de l'Himalaya est un ingrédient phare pour atténuer l'aspect de la cellulite. Spirituelle, l'huile essentielle de Cèdre de l'Himalaya est dotée d'une odeur envoûtante qui calme et ressource.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cèdre de l'himalaya est reconnue pour ces propriétés :",
@@ -2986,7 +2986,7 @@
   },
   {
     "name": "Huile essentielle de Cèdre de Virginie",
-    "image": "assets/images/cedre.png",
+    "image": "cedre.png",
     "description": "L'huile essentielle de cèdre de Virginie est un décongestionnant ainsi qu'un tonique veineux. Elle est efficace pour lutter contre la sensation de jambes lourdes ou la cellulite.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cèdre de virginie est reconnue pour ces propriétés :",
@@ -3056,7 +3056,7 @@
   },
   {
     "name": "Huile essentielle de Céleri",
-    "image": "assets/images/celeri.jpg",
+    "image": "celeri.jpg",
     "description": "L'huile essentielle de céleri stimule l'organisme. Elle permet aussi de traiter la pigmentation cutanée.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de céleri est reconnue pour ces propriétés :",
@@ -3126,7 +3126,7 @@
   },
   {
     "name": "Huile essentielle de Christe marine",
-    "image": "assets/images/christemarine.jpg",
+    "image": "christemarine.jpg",
     "description": "L'huile essentielle de criste marine (ou christe marine) a des vertus drainantes et amincissantes. Elle aide à lutter contre la rétention hydrolipidique et favorise l'élimination des graisses. Elle est également raffermissante et régénérante cutanée.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de christe marine est reconnue pour ces propriétés :",
@@ -3191,7 +3191,7 @@
   },
   {
     "name": "Huile essentielle de Ciste",
-    "image": "assets/images/ciste.jpg",
+    "image": "ciste.jpg",
     "description": "Cicatrisante et antihémorragique, l’huile essentielle de ciste trouve de nombreuses utilisations dans la vie quotidienne. Elle est également connue comme étant un régulateur des défenses naturelles et un puissant antirides.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de ciste est reconnue pour ces propriétés :",
@@ -3289,7 +3289,7 @@
   },
   {
     "name": "Huile essentielle de Citron",
-    "image": "assets/images/citron.jpg",
+    "image": "citron.jpg",
     "description": "Couramment utilisée pour ses propriétés blanchissantes et purifiantes, l’huile essentielle de citron est efficace face à de nombreux maux. C'est, en effet, un excellent stimulant métabolique et un antiseptique à large spectre. ",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de citron est reconnue pour ces propriétés :",
@@ -3388,7 +3388,7 @@
   },
   {
     "name": "Huile essentielle de Citron sans furocoumarines",
-    "image": "assets/images/citron.jpg",
+    "image": "citron.jpg",
     "description": "Non photosensibilisante, l'huile essentielle sans furocoumarines est idéale comme actif cosmétique. Purifiante, l'huile essentielle de Citron sans furocoumarines fait merveille dans le soin des peaux et cuirs chevelus gras. Fortifiante, l'huile essentielle de Citron sans furocoumarines est aussi réputée dans les soins des ongles cassants. Délicieusement parfumée, l'huile essentielle de Citron sans furocoumarines exhale une senteur divine et fruitée appréciée en parfumerie.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de citron sans furocoumarines est reconnue pour ces propriétés :",
@@ -3497,7 +3497,7 @@
   },
   {
     "name": "Huile essentielle de Citron vert",
-    "image": "assets/images/citronvert.jpg",
+    "image": "citronvert.jpg",
     "description": "L'huile essentielle de citron vert permet de lutter contre le stress et favorise la circulation sanguine.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de citron vert est reconnue pour ces propriétés :",
@@ -3569,7 +3569,7 @@
   },
   {
     "name": "Huile essentielle de Citronnelle",
-    "image": "assets/images/citronelle.jpg",
+    "image": "citronelle.jpg",
     "description": "Surtout connue pour son effet répulsif sur les moustiques, l’huile essentielle de citronnelle est également adaptée pour soulager les douleurs articulaires. Cette indication est cependant peu connue, de même que ses effets sur la transpiration. Il existe en fait deux types d’huile essentielle de citronnelle : la citronnelle de Ceylan est la plus réputée pour son effet répulsif, tandis que l’huile essentielle de citronnelle de Java est plus efficace contre les rhumatismes et les tendinites.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de citronnelle est reconnue pour ces propriétés :",
@@ -3649,7 +3649,7 @@
   },
   {
     "name": "Huile essentielle de Clémentine",
-    "image": "assets/images/clementine.jpg",
+    "image": "clementine.jpg",
     "description": "L'huile essentielle de clémentine permet entre autres de faciliter le sommeil, de calmer, de détendre. Elle favorise la digestion, est antiseptique et purifiante.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de clémentine est reconnue pour ces propriétés :",
@@ -3719,7 +3719,7 @@
   },
   {
     "name": "Huile essentielle de Clous de Girofle",
-    "image": "assets/images/clous.jpg",
+    "image": "clous.jpg",
     "description": "L'huile essentielle de clous de girofle est un excellent stimulant général. Elle est aussi bien connue pour soulager les douleurs dentaires que les caries. Elle est aussi bénéfique pour traiter les maux de ventre et c'est un antibactérien, un antiviral et un anti-infectieux puissant.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de clous de girofle est reconnue pour ces propriétés :",
@@ -3808,7 +3808,7 @@
   },
   {
     "name": "Huile essentielle de Combawa",
-    "image": "assets/images/combawa.jpg",
+    "image": "combawa.jpg",
     "description": "L'huile essentielle de combawa est anti-inflammatoire et antirhumatismale. Elle est également un sédatif nerveux.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de combawa est reconnue pour ces propriétés :",
@@ -3871,7 +3871,7 @@
   },
   {
     "name": "Huile essentielle de Coriandre",
-    "image": "assets/images/coriandre.jpg",
+    "image": "coriandre.jpg",
     "description": "L'huile essentielle de coriandre permet de stimuler la mémoire tout en luttant contre la fatigue en général. Elle est aussi utilisée pour stimuler l'appareil digestif.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle coriandre est reconnue pour ces propriétés :",
@@ -3945,7 +3945,7 @@
   },
   {
     "name": "Huile essentielle de Cryptoméria",
-    "image": "assets/images/cryptomeria.jpg",
+    "image": "cryptomeria.jpg",
     "description": "Le bois de Cryptomeria est connu pour repousser les insectes et termites. L'huile essentielle de Cryptomeria à l'odeur boisée qui en est extraite est parfaite pour purifier l'air ambiant. Calmante, l'huile essentielle de Cryptomeria s'utilise aussi dans les huiles de massage des sportifs.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cryptoméria est reconnue pour ces propriétés :",
@@ -3997,7 +3997,7 @@
   },
   {
     "name": "Huile essentielle de Cumin",
-    "image": "assets/images/cumin.jpg",
+    "image": "cumin.jpg",
     "description": "L’huile essentielle de cumin s’utilise contre les problèmes digestifs. Elle est aussi relaxante.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cumin est reconnue pour ces propriétés :",
@@ -4077,7 +4077,7 @@
   },
   {
     "name": "Huile essentielle de Curcuma",
-    "image": "assets/images/curcuma.jpg",
+    "image": "curcuma.jpg",
     "description": "L'huile essentielle de curcuma est connue pour ses propriétés antioxydantes et anti-inflammatoires. Elle est utilisée contre les douleurs locales et les insuffisances biliaires.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de curcuma est reconnue pour ces propriétés :",
@@ -4190,7 +4190,7 @@
   },
   {
     "name": "Huile essentielle de Cyprès de Provence",
-    "image": "assets/images/cypres.jpg",
+    "image": "cypres.jpg",
     "description": "L'huile essentielle de cyprès est un excellent tonique de la circulation. Elle permet également de réguler la transpiration, d'apaiser la toux, tout en étant un rééquilibrant nerveux général très efficace.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cyprès de provence est reconnue pour ces propriétés :",
@@ -4288,7 +4288,7 @@
   },
   {
     "name": "Huile essentielle de Cyprès bleu",
-    "image": "assets/images/cypresbleu.jpg",
+    "image": "cypresbleu.jpg",
     "description": "L'huile essentielle de cyprès bleu est rare, mais très efficace pour rafraîchir, calmer et régénérer la peau.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cyprès bleu est reconnue pour ces propriétés :",
@@ -4347,7 +4347,7 @@
   },
   {
     "name": "Huile essentielle de Cyprès toujours vert",
-    "image": "assets/images/cypres.jpg",
+    "image": "cypres.jpg",
     "description": "L'huile essentielle de Cyprès toujours vert est connue depuis longtemps pour ses qualités toniques et circulatoires exceptionnelles. Régulatrice, l'huile essentielle de Cyprès toujours vert est aussi traditionnellement réputée pour atténuer les transpirations excessives. Son action apaisante fait de l'huile essentielle de Cyprès toujours vert un incontournable pour calmer les toussotements.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de cyprès toujours vert est reconnue pour ces propriétés :",
@@ -4444,7 +4444,7 @@
   },
   {
     "name": "Huile essentielle d'Elémi",
-    "image": "assets/images/elemi.jpg",
+    "image": "elemi.jpg",
     "description": "La résine d'Elémi était employée au Moyen Age en cas de dos voûté. Revitalisante, l'huile essentielle d'Elémi est utilisée dans les soins réparateurs cutanés. L'huile essentielle d'Elémi est aussi une huile énergétique fabuleuse, qui recentre et harmonise les énergies.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'elémi est reconnue pour ces propriétés :",
@@ -4506,7 +4506,7 @@
   },
   {
     "name": "Huile essentielle d'Encens oliban",
-    "image": "assets/images/encensoliban.jpg",
+    "image": "encensoliban.jpg",
     "description": "L'huile essentielle d'encens (ou oliban) soulage les tensions nerveuses et les dépressions, stimule les défenses immunitaires et agit comme anticatarrahale des voies respiratoires.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'encens oliban est reconnue pour ces propriétés :",
@@ -4588,7 +4588,7 @@
   },
   {
     "name": "Huile essentielle d'Epinette bleue",
-    "image": "assets/images/epinettebleue.jpg",
+    "image": "epinettebleue.jpg",
     "description": "L'huile essentielle d'Epinette bleue est connue pour ses propriétés purifiantes. L'huile essentielle d'Epinette bleue apporte un effet tonique grâce à son odeur très fine et agréable. Puissante huile énergétique, l'huile essentielle d'Epinette bleue est traditionnellement utilisée pour lutter contre la fatigue et l'épuisement.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'epinette bleue est reconnue pour ces propriétés :",
@@ -4653,7 +4653,7 @@
   },
   {
     "name": "Huile essentielle d'Epinette noire",
-    "image": "assets/images/epinettenoire.jpg",
+    "image": "epinettenoire.jpg",
     "description": "L'huile essentielle d'épinette noire est très efficace en cas de fatigue. Elle est également utilisée comme anti-infectieux, antiseptique et pour traiter les problèmes respiratoires.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'epinette noire est reconnue pour ces propriétés :",
@@ -4735,7 +4735,7 @@
   },
   {
     "name": "Huile essentielle d'Estragon",
-    "image": "assets/images/estragon.jpg",
+    "image": "estragon.jpg",
     "description": "L'huile essentielle d'estragon est un excellent antiviral, antispasmodique et anti-allergique. On peut l'utiliser pour mettre fin au hoquet. Elle est très agréable en diffusion grâce à sa senteur anisée.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'estragon est reconnue pour ces propriétés :",
@@ -4835,7 +4835,7 @@
   },
   {
     "name": "Huile essentielle d'Eucalyptus à cryptone",
-    "image": "assets/images/eucalyptus.jpg",
+    "image": "eucalyptus.jpg",
     "description": "L'huile essentielle d'Eucalyptus à cryptone est réputée traditionnellement pour son action bénéfique sur de nombreux problèmes infectieux : l'huile essentielle d'Eucalyptus à cryptone est ainsi particulièrement appréciée pour ses effets sur la sphère urinaire. Respiratoire, l'huile essentielle d'Eucalyptus à cryptone aussi exceptionnelle pour libérer les nez encombrés.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'eucalyptus à cryptone est reconnue pour ces propriétés :",
@@ -4896,7 +4896,7 @@
   },
   {
     "name": "Huile essentielle d'Eucalyptus citronné",
-    "image": "assets/images/eucalyptus.jpg",
+    "image": "eucalyptus.jpg",
     "description": "L'huile essentielle d'eucalyptus citronné est un très bon anti-inflammatoire et un excellent antidouleur. Elle sert aussi à faire fuir les moustiques, à calmer les irritations cutanées et peut être utilisée pour le bien-être.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'eucalyptus citronné est reconnue pour ces propriétés :",
@@ -4981,7 +4981,7 @@
   },
   {
     "name": "Huile essentielle d'Eucalyptus globulus",
-    "image": "assets/images/eucalyptus.jpg",
+    "image": "eucalyptus.jpg",
     "description": "L'huile essentielle d'eucalyptus globuleux est une huile très rafraîchissante. Elle est particulièrement appréciée en diffusion et en massage pour agir sur le système respiratoire. C'est également un expectorant très efficace pour lutter contre le rhume, la bronchite ou la sinusite. Elle ne doit pas être utilisée par voie interne.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'eucalyptus globulus est reconnue pour ces propriétés :",
@@ -5063,7 +5063,7 @@
   },
   {
     "name": "Huile essentielle d'Eucalyptus mentholé",
-    "image": "assets/images/eucalyptus.jpg",
+    "image": "eucalyptus.jpg",
     "description": "Purifiante et rafraîchissante, cette huile est traditionnellement utilisée pour favoriser la respiration. Elle est aussi connue pour ses effets lipolytiques grâce à sa teneur en cétones.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'eucalyptus mentholé est reconnue pour ces propriétés :",
@@ -5144,7 +5144,7 @@
   },
   {
     "name": "Huile essentielle d'Eucalyptus radié",
-    "image": "assets/images/eucalyptus.jpg",
+    "image": "eucalyptus.jpg",
     "description": "Particulièrement efficace contre les problèmes ORL et respiratoires, aussi bien chez l'adulte que l'enfant, l'huile essentielle d'eucalyptus radié est un décongestionnant respiratoire à l'efficacité redoutable. ",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'eucalyptus radié est reconnue pour ces propriétés :",
@@ -5246,7 +5246,7 @@
   },
   {
     "name": "Huile essentielle d'Eucalyptus smithii",
-    "image": "assets/images/eucalyptus.jpg",
+    "image": "eucalyptus.jpg",
     "description": "Très douce, cette huile est réputée comme rafraîchissant et purifiant naturel en période hivernale. Elle est appréciée pour favoriser la respiration.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'eucalyptus smithii est reconnue pour ces propriétés :",
@@ -5319,7 +5319,7 @@
   },
   {
     "name": "Huile essentielle d'Eucalyptus staigeriana",
-    "image": "assets/images/eucalyptus.jpg",
+    "image": "eucalyptus.jpg",
     "description": "Apaisante, cette huile est traditionnellement utilisée comme une aide en cas d'inconforts articulaires. Elle est également réputée pour ses effets calmants sur la sphère psycho-émotionnelle, notamment en cas de stress, fatigue nerveuse... Sa délicieuse odeur citronnée est une merveille en diffusion et particulièrement appréciée pour les soins à visée énergétique.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'eucalyptus staigeriana est reconnue pour ces propriétés :",
@@ -5399,7 +5399,7 @@
   },
   {
     "name": "Huile essentielle de Fenouil doux",
-    "image": "assets/images/fenouil.jpg",
+    "image": "fenouil.jpg",
     "description": "L'huile essentielle de fenouil doux est efficace pour atténuer les douleurs des règles et aussi les soucis liés à la ménopause. On l'utilise également pour lutter contre la cellulite ou contre les troubles digestifs.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de fenouil doux est reconnue pour ces propriétés :",
@@ -5476,7 +5476,7 @@
   },
   {
     "name": "Huile essentielle de Feuilles de Girofle",
-    "image": "assets/images/feuillegirofle.jpg",
+    "image": "feuillegirofle.jpg",
     "description": "Cette huile purifiante et tonique est dotée d'une odeur puissante et chaude et réputée pour lutter contre la fatigue et la morosité. Elle est très efficace pour éliminer les odeurs de cuisson.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de feuilles de girofle est reconnue pour ces propriétés :",
@@ -5554,7 +5554,7 @@
   },
   {
     "name": "Huile essentielle de Fragonia",
-    "image": "assets/images/fragonia.jpg",
+    "image": "fragonia.jpg",
     "description": "L'huile essentielle de fragonia traite les peaux à problèmes, purifie et facilite le bien-être. C'est un antibactérien puissant.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de fragonia est reconnue pour ces propriétés :",
@@ -5636,7 +5636,7 @@
   },
   {
     "name": "Huile essentielle de Galbanum",
-    "image": "assets/images/galbanum.jpg",
+    "image": "galbanum.jpg",
     "description": "Tonique et stimulante, cette huile est utilisée en cas de fatigue et de tensions. L'huile essentielle de Galbanum est également appréciée pour son odeur verte et herbacée et était largement utilisée dans la composition d'accords \"chypre\".",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de galbanum est reconnue pour ces propriétés :",
@@ -5692,7 +5692,7 @@
   },
   {
     "name": "Huile essentielle de Gaulthérie couchée",
-    "image": "assets/images/gaultherie.jpg",
+    "image": "gaultherie.jpg",
     "description": "L'huile essentielle de gaulthérie (couchée ou odorante) est un très bon anti-inflammatoire, mais également un antidouleur et un antispasmodique. On l'utilise fréquemment pour les problèmes musculaires ou liés à l'arthrite. Elle soulage les personnes atteintes de crampes, tendinites, rhumatismes... Elle est aussi utilisée pour le bien-être.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de gaulthérie couchée est reconnue pour ces propriétés :",
@@ -5788,7 +5788,7 @@
   },
   {
     "name": "Huile essentielle de Gaulthérie odorante",
-    "image": "assets/images/gaultherie.jpg",
+    "image": "gaultherie.jpg",
     "description": "L'huile essentielle de gaulthérie (couchée ou odorante) est un très bon anti-inflammatoire, mais également un antidouleur et un antispasmodique. On l'utilise fréquemment pour les problèmes musculaires ou liés à l'arthrite. Elle soulage les personnes atteintes de crampes, tendinites, rhumatismes... Elle est aussi utilisée pour le bien-être.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de gaulthérie odorante est reconnue pour ces propriétés :",
@@ -5884,7 +5884,7 @@
   },
   {
     "name": "Huile essentielle de Genévrier",
-    "image": "assets/images/genevrier.jpg",
+    "image": "genevrier.jpg",
     "description": "L'huile essentielle de genévrier est anti-inflammatoire, antidouleur, permet d'éliminer la cellulite et la rétention d'eau et apporte de la force.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de genévrier est reconnue pour ces propriétés :",
@@ -5998,7 +5998,7 @@
   },
   {
     "name": "Huile essentielle de Géranium Bourbon",
-    "image": "assets/images/geranium.jpg",
+    "image": "geranium.jpg",
     "description": "L'huile essentielle de géranium bourbon est recommandée pour les soins cutanés. Elle permet, entre autres, de lutter contre les vergetures ou d'illuminer le teint.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de géranium bourbon est reconnue pour ces propriétés :",
@@ -6115,7 +6115,7 @@
   },
   {
     "name": "Huile essentielle de Géranium rosat Egypte",
-    "image": "assets/images/geranium.jpg",
+    "image": "geranium.jpg",
     "description": "L'huile essentielle de géranium rosat est efficace pour lutter contre les problèmes cutanés.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de géranium rosat egypte est reconnue pour ces propriétés :",
@@ -6228,7 +6228,7 @@
   },
   {
     "name": "Huile essentielle de Gingembre",
-    "image": "assets/images/gingembre.jpg",
+    "image": "gingembre.jpg",
     "description": "Cette huile est réputée comme aphrodisiaque et tonique général. Elle est aussi connue pour son aide en cas de mal des transports, respirée sur un mouchoir. Sa senteur à la fois fraîche et épicée se marie bien aux agrumes.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de gingembre est reconnue pour ces propriétés :",
@@ -6327,7 +6327,7 @@
   },
   {
     "name": "Huile essentielle de Gingembre papillon",
-    "image": "assets/images/gingembre.jpg",
+    "image": "gingembre.jpg",
     "description": "L'huile essentielle de gingembre papillon est une huile rare utilisée en onction et en diffusion. Elle est très efficace pour calmer et lutter contre le stress. En approche psycho-émotionnelle, on l’utilise pour aider à libérer des situations bloquées depuis plusieurs années.",
     "health": {
       "propertiesDesc": "",
@@ -6383,7 +6383,7 @@
   },
   {
     "name": "Huile essentielle d'Hélichryse de Madagascar",
-    "image": "assets/images/helichryse.jpg",
+    "image": "helichryse.jpg",
     "description": "Cette huile est connue pour recentrer les énergies du corps et est traditionnellement utilisée pour stimuler les défenses naturelles et accompagner la convalescence d'infections hivernales.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'hélichryse de madagascar est reconnue pour ces propriétés :",
@@ -6432,7 +6432,7 @@
   },
   {
     "name": "Huile essentielle d'Hélichryse italienne",
-    "image": "assets/images/helichryse.jpg",
+    "image": "helichryse.jpg",
     "description": "L'huile essentielle d'hélichryse italienne est aussi connue sous le nom d'huile essentielle d'immortelle. Elle est surtout un antihématome et un anticoagulant très puissant, à tel point qu'on la surnomme \"l'huile du boxeur\". Mais elle a aussi d'autres vertus pour le système respiratoire, le système circulatoire, pour les muscles, la digestion ainsi que sur le plan psycho-émotionnel.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'hélichryse italienne est reconnue pour ces propriétés :",
@@ -6558,7 +6558,7 @@
   },
   {
     "name": "Huile essentielle d'Hysope couchée",
-    "image": "assets/images/hysope.jpg",
+    "image": "hysope.jpg",
     "description": "L'huile essentielle d'hysope couchée est très efficace en cas de bronchite, toux, asthme, grippe ou rhume des foins. C'est un excellent anticatarrhal, expectorant et anti-asthmatique.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'hysope couchée est reconnue pour ces propriétés :",
@@ -6624,7 +6624,7 @@
   },
   {
     "name": "Huile essentielle de Iary",
-    "image": "assets/images/iary.jpg",
+    "image": "iary.jpg",
     "description": "Le Iary est réputé pour ses excellentes vertus sur la sphère respiratoire. Son huile possède des propriétés apaisantes et est appréciée pour préparer des huiles de massage. Positivante, elle favorise la vitalité du corps et de l'esprit.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de iary est reconnue pour ces propriétés :",
@@ -6687,7 +6687,7 @@
   },
   {
     "name": "Huile essentielle d'Inule odorante",
-    "image": "assets/images/inule.jpg",
+    "image": "inule.jpg",
     "description": "L'huile essentielle d'inule est un expectorant et un mucolytique très efficace. Elle est recommandée en cas d'infection respiratoire ou de laryngite, toux ou bronchite.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'inule odorante est reconnue pour ces propriétés :",
@@ -6749,7 +6749,7 @@
   },
   {
     "name": "Huile essentielle de Katrafay (ou Katafray)",
-    "image": "assets/images/katafray.jpg",
+    "image": "katafray.jpg",
     "description": "L'huile essentielle de katafray permet de lutter contre la fatigue. C'est également un anti-inflammatoire et un antidouleur.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de katrafay (ou katafray) est reconnue pour ces propriétés :",
@@ -6808,7 +6808,7 @@
   },
   {
     "name": "Huile essentielle de Khella",
-    "image": "assets/images/khella.jpg",
+    "image": "khella.jpg",
     "description": "L'huile essentielle de khella est antispasmodique et anticoagulante.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de khella est reconnue pour ces propriétés :",
@@ -6867,7 +6867,7 @@
   },
   {
     "name": "Huile essentielle de Kunzea",
-    "image": "assets/images/kunzea.jpg",
+    "image": "kunzea.jpg",
     "description": "L'huile essentielle de kunzea permet de lutter contre l'encombrement respiratoire. Elle est aussi antivirale.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de kunzea est reconnue pour ces propriétés :",
@@ -6942,7 +6942,7 @@
   },
   {
     "name": "Huile essentielle de Lantana",
-    "image": "assets/images/lantana.jpg",
+    "image": "lantana.jpg",
     "description": "Cette huile est connue comme calmante et aide à apaiser les tensions quotidiennes et favoriser le sommeil. Elle est aussi réputée pour ses vertus apaisantes et s'utilise traditionnellement pour le confort articulaire.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de lantana est reconnue pour ces propriétés :",
@@ -6992,7 +6992,7 @@
   },
   {
     "name": "Huile essentielle de Laurier noble",
-    "image": "assets/images/laurier.jpg",
+    "image": "laurier.jpg",
     "description": "L'huile essentielle de laurier noble fait partie des huiles essentielles indispensables en aromathérapie. Elle est à la fois antibactérienne et antifongique, et surtout très bien tolérée par voie cutanée. Elle permet de soulager efficacement les personnes atteintes de douleurs articulaires, elle apporte des bienfaits respiratoires, digestifs, cardiovasculaires et cutanés. C'est également une huile apaisante, équilibrante et tonifiante.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de laurier noble est reconnue pour ces propriétés :",
@@ -7128,7 +7128,7 @@
   },
   {
     "name": "Huile essentielle de Lavande aspic",
-    "image": "assets/images/lavande.jpg",
+    "image": "lavande.jpg",
     "description": "Si on la compare à la lavande vraie, la lavande aspic (lavande sauvage) est peu connue. Elle recèle pourtant tout autant de propriétés bienfaitrices que sa cousine. Elle est dotée notamment de propriétés antiseptiques, cicatrisantes, antitoxiques et antalgiques qui en font une huile incontournable contre les maux de tête, les difficultés respiratoires ou encore les problèmes de peau.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de lavande aspic est reconnue pour ces propriétés :",
@@ -7242,7 +7242,7 @@
   },
   {
     "name": "Huile essentielle de Lavande fine de Provence",
-    "image": "assets/images/lavande.jpg",
+    "image": "lavande.jpg",
     "description": "L'huile essentielle de lavande vraie, ou lavande fine, a des vertus cicatrisantes et régénérantes cutanées. Elle permet de traiter de nombreuses infections cutanées, tout en ayant des vertus relaxantes et apaisantes.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de lavande fine de provence est reconnue pour ces propriétés :",
@@ -7373,7 +7373,7 @@
   },
   {
     "name": "Huile essentielle de Lavande fine Altitude",
-    "image": "assets/images/lavande.jpg",
+    "image": "lavande.jpg",
     "description": "Grande calmante, l'huile essentielle de Lavande fine Altitude favorise le sommeil et l'élimination des tensions et du stress. Régénérante et répératrice, elle s'utilise aussi traditionnellement pour apaiser les petits bobos.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de lavande fine altitude est reconnue pour ces propriétés :",
@@ -7503,7 +7503,7 @@
   },
   {
     "name": "Huile essentielle de Lavande vraie",
-    "image": "assets/images/lavande.jpg",
+    "image": "lavande.jpg",
     "description": "L'huile essentielle de lavande vraie, ou lavande fine, a des vertus cicatrisantes et régénérantes cutanées. Elle permet de traiter de nombreuses infections cutanées, tout en ayant des vertus relaxantes et apaisantes.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de lavande vraie est reconnue pour ces propriétés :",
@@ -7631,7 +7631,7 @@
   },
   {
     "name": "Huile essentielle de Lavandin grosso",
-    "image": "assets/images/lavandin.jpg",
+    "image": "lavandin.jpg",
     "description": "Connue comme calmant puissant, cette huile essentielle est utilisée en cas de stress et de troubles du sommeil. Traditionnellement réputée pour faciliter la décontraction des muscles, elle est conseillée en cas de crampes ou courbatures.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de lavandin grosso est reconnue pour ces propriétés :",
@@ -7715,7 +7715,7 @@
   },
   {
     "name": "Huile essentielle de Lavandin super",
-    "image": "assets/images/lavandin.jpg",
+    "image": "lavandin.jpg",
     "description": "L'huile essentielle de lavandin est un excellent décontractant musculaire ainsi qu'un bon anti-inflammatoire. Elle est aussi utilisée pour détruire les poux et pour son agréable parfum apaisant en diffusion.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de lavandin super est reconnue pour ces propriétés :",
@@ -7809,7 +7809,7 @@
   },
   {
     "name": "Huile essentielle de Lédon du Groenland",
-    "image": "assets/images/ledon.jpg",
+    "image": "ledon.jpg",
     "description": "Cette huile originaire du Canada est réputée pour stimuler et détoxifier l'organisme. Elle est également connue pour ses vertus calmantes exceptionnelles en cas de stress et de troubles du sommeil.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de lédon du groenland est reconnue pour ces propriétés :",
@@ -7880,7 +7880,7 @@
   },
   {
     "name": "Huile essentielle de Lemongrass",
-    "image": "assets/images/lemongrass.jpg",
+    "image": "lemongrass.jpg",
     "description": "L'huile essentielle de lemongrass, plante de la famille des citronnelles, est idéale pour repousser les insectes. Elle possède également des vertus tonifiantes sur la circulation sanguine et c'est un anti-inflammatoire efficace. En beauté, on l'utilise pour avoir une chevelure brillante.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de lemongrass est reconnue pour ces propriétés :",
@@ -7970,7 +7970,7 @@
   },
   {
     "name": "Huile essentielle de Lentisque Pistachier",
-    "image": "assets/images/lentisque.jpg",
+    "image": "lentisque.jpg",
     "description": "L'huile essentielle de lentisque pistachier possède des vertus décongestionnantes pour la circulation veineuse et lymphatique.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de lentisque pistachier est reconnue pour ces propriétés :",
@@ -8052,7 +8052,7 @@
   },
   {
     "name": "Huile essentielle de Litsée citronnée",
-    "image": "assets/images/listee.jpg",
+    "image": "listee.jpg",
     "description": "L'huile essentielle de litsée citronnée est relaxante. C'est aussi un très bon anti-inflammatoire, un antifongique et un tonique digestif.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de litsée citronnée est reconnue pour ces propriétés :",
@@ -8154,7 +8154,7 @@
   },
   {
     "name": "Huile essentielle de Livèche",
-    "image": "assets/images/liveche.jpg",
+    "image": "liveche.jpg",
     "description": "L’huile essentielle de livèche est réputée pour ses propriétés antitoxiques et détoxifiantes.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de livèche est reconnue pour ces propriétés :",
@@ -8228,7 +8228,7 @@
   },
   {
     "name": "Huile essentielle de Magnolia",
-    "image": "assets/images/magnolia.jpg",
+    "image": "magnolia.jpg",
     "description": "L'huile essentielle de magnolia est appréciée pour son odeur et aussi pour ses propriétés décontractantes. Elle permet de traiter les troubles du sommeil et d'éveiller les sens.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de magnolia est reconnue pour ces propriétés :",
@@ -8272,7 +8272,7 @@
   },
   {
     "name": "Huile essentielle de Mandarine jaune",
-    "image": "assets/images/mandarinejaune.png",
+    "image": "mandarinejaune.png",
     "description": "L'huile essentielle de mandarine jaune est calmante, relaxante et permet de profiter d'un bon sommeil. Elle aide à lutter contre le stress.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de mandarine jaune est reconnue pour ces propriétés :",
@@ -8362,7 +8362,7 @@
   },
   {
     "name": "Huile essentielle de Mandarine rouge",
-    "image": "assets/images/mandarinerouge.jpg",
+    "image": "mandarinerouge.jpg",
     "description": "Calmante et relaxante, cette huile essentielle est est idéale pour combattre le stress et la nervosité et favoriser un sommeil réparateur. Son odeur fruitée apporte une touche de bonne humeur.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de mandarine rouge est reconnue pour ces propriétés :",
@@ -8447,7 +8447,7 @@
   },
   {
     "name": "Huile essentielle de Mandarine verte",
-    "image": "assets/images/mandarineverte.jpg",
+    "image": "mandarineverte.jpg",
     "description": "L'huile essentielle de mandarine verte est relaxante, elle favorise le sommeil, tout en étant un antispasmodique efficace.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de mandarine verte est reconnue pour ces propriétés :",
@@ -8538,7 +8538,7 @@
   },
   {
     "name": "Huile essentielle de Maniguette fine",
-    "image": "assets/images/maniguette.jpg",
+    "image": "maniguette.jpg",
     "description": "Cette huile rare de Madagascar calme et réconforte l'esprit. Idéale en période de fatigue ou baisse de moral, elle aide à \"se retrouver\" et favorise un sommeil réparateur. Ses notes sucrées légèrement poivrées sont appréciées en parfumerie.",
     "health": {
       "propertiesDesc": "",
@@ -8591,7 +8591,7 @@
   },
   {
     "name": "Huile essentielle de Manuka",
-    "image": "assets/images/manuka.jpg",
+    "image": "manuka.jpg",
     "description": "Bien que rare, l’huile essentielle de manuka est un très puissant antiviral et antibactérien. Elle est particulièrement utile en cas d’affections cutanées et ORL. Elle s’utilise également en prévention des infections.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de manuka est reconnue pour ces propriétés :",
@@ -8688,7 +8688,7 @@
   },
   {
     "name": "Huile essentielle de Marjolaine à coquilles",
-    "image": "assets/images/marjolaine.jpg",
+    "image": "marjolaine.jpg",
     "description": "L'huile essentielle de marjolaine à coquilles est reconnue pour ses vertus calmantes, antispasmodiques et sédatives. Elle agit contre le stress et permet de lutter contre les infections respiratoires.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de marjolaine à coquilles est reconnue pour ces propriétés :",
@@ -8782,7 +8782,7 @@
   },
   {
     "name": "Huile essentielle de Marjolaine à thujanol",
-    "image": "assets/images/marjolaine.jpg",
+    "image": "marjolaine.jpg",
     "description": "Parfaite alternative à l'huile de Thym à thujanol, connue pour ses propriétés purifiantes puissantes, cette huile possède aussi des vertus équilibrantes sur l'organisme. Elle s'utilise également pour stimuler et réchauffer les muscles.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de marjolaine à thujanol est reconnue pour ces propriétés :",
@@ -8892,7 +8892,7 @@
   },
   {
     "name": "Huile essentielle de Marjolaine sylvestre",
-    "image": "assets/images/marjolaine.jpg",
+    "image": "marjolaine.jpg",
     "description": "Connue pour ses vertus respiratoires et purifiantes, cette huile essentielle est utilisée depuis longtemps durant les périodes hivernales pour prévenir et aider à soulager les rhumes passagers. Son parfum frais est très apprécié.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de marjolaine sylvestre est reconnue pour ces propriétés :",
@@ -8948,7 +8948,7 @@
   },
   {
     "name": "Huile essentielle de Mélisse",
-    "image": "assets/images/melisse.jpg",
+    "image": "melisse.jpg",
     "description": "L’huile essentielle de mélisse est réputée pour ses effets calmants, sur le plan physique comme sur le plan émotionnel.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de mélisse est reconnue pour ces propriétés :",
@@ -9029,7 +9029,7 @@
   },
   {
     "name": "Huile essentielle de Menthe citronnée",
-    "image": "assets/images/menthe.png",
+    "image": "menthe.png",
     "description": "L'huile essentielle de menthe citronnée est un puissant tonique et une équilibrante nerveuse.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de menthe citronnée est reconnue pour ces propriétés :",
@@ -9097,7 +9097,7 @@
   },
   {
     "name": "Huile essentielle de Menthe poivrée",
-    "image": "assets/images/menthe.png",
+    "image": "menthe.png",
     "description": "Cette huile stimule et revigore corps et esprit, et est traditionnellement connue pour aider à lutter contre les nausées, le mal des transports et les maux de tête. Réfrigérante, elle s'utilise aussi pour soulager les démangeaisons.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de menthe poivrée est reconnue pour ces propriétés :",
@@ -9231,7 +9231,7 @@
   },
   {
     "name": "Huile essentielle de Menthe poivrée de Provence",
-    "image": "assets/images/menthe.png",
+    "image": "menthe.png",
     "description": "Cultivée en Provence, cette menthe a des effets stimulants et rafraîchissants puissants. Elle est traditionnellement connue pour aider en cas de nausées ou maux de tête, et pour favoriser la concentration.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de menthe poivrée de provence est reconnue pour ces propriétés :",
@@ -9368,7 +9368,7 @@
   },
   {
     "name": "Huile essentielle de Menthe des champs",
-    "image": "assets/images/menthe.png",
+    "image": "menthe.png",
     "description": "Tonique et rafraîchissante, cette huile est idéale pour revigorer corps et esprit et traditionnellement conseillée pour favoriser le confort digestif. Son odeur mentholée très fraîche est appréciée.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de menthe des champs est reconnue pour ces propriétés :",
@@ -9449,7 +9449,7 @@
   },
   {
     "name": "Huile essentielle de Menthe verte",
-    "image": "assets/images/menthe.png",
+    "image": "menthe.png",
     "description": "Cette huile est connue pour sa fabuleuse odeur évoquant les chewing-gums à la chlorophylle. Elle stimule et rafraîchit : effet \"coup de fouet\" garanti en cas de fatigue. Elle s'utilise également à petite dose comme arôme en cuisine.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de menthe verte est reconnue pour ces propriétés :",
@@ -9533,7 +9533,7 @@
   },
   {
     "name": "Huile essentielle de Millepertuis",
-    "image": "assets/images/millepertuis.jpg",
+    "image": "millepertuis.jpg",
     "description": "Apaisante et réparatrice puissante, cette huile essentielle est conseillée par les aromathérapeutes en soutien naturel en cas de problèmes inflammatoires ou traumatiques. Elle est également intéressante en cas de troubles du sommeil.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de millepertuis est reconnue pour ces propriétés :",
@@ -9615,7 +9615,7 @@
   },
   {
     "name": "Huile essentielle de Monarde fistuleuse",
-    "image": "assets/images/monarde.jpg",
+    "image": "monarde.jpg",
     "description": "L’huile essentielle de monarde est l’une des rares à pouvoir être utilisées pour les enfants et les femmes enceintes.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de monarde fistuleuse est reconnue pour ces propriétés :",
@@ -9682,7 +9682,7 @@
   },
   {
     "name": "Huile essentielle de noix de Muscade",
-    "image": "assets/images/muscade.jpg",
+    "image": "muscade.jpg",
     "description": "L'huile essentielle de noix de muscade est un stimulant général. C'est également un anti-douleur.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de muscade est reconnue pour ces propriétés :",
@@ -9755,7 +9755,7 @@
   },
   {
     "name": "Huile essentielle de Myrrhe",
-    "image": "assets/images/myrrhe.jpg",
+    "image": "myrrhe.jpg",
     "description": "L'huile essentielle de myrrhe est idéale pour calmer et réconforter. Elle a aussi des propriétés cicatrisantes et antiseptiques.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de myrrhe est reconnue pour ces propriétés :",
@@ -9859,7 +9859,7 @@
   },
   {
     "name": "Huile essentielle de Myrte citronnée",
-    "image": "assets/images/myrte.jpg",
+    "image": "myrte.jpg",
     "description": "Purifiante, cette huile développe un parfum exceptionnel, très intense, rafraîchissant et citronné. Une huile idéale à diffuser pour assainir l'air. Elle s'utilise aussi dans les soins purifiants pour la peau.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de myrte citronnée est reconnue pour ces propriétés :",
@@ -9920,7 +9920,7 @@
   },
   {
     "name": "Huile essentielle de Myrte rouge",
-    "image": "assets/images/myrte.jpg",
+    "image": "myrte.jpg",
     "description": "L'huile essentielle de myrte rouge est un antispasmodique efficace ainsi qu'un décongestionnant veineux. On l'utilise également contre l'asthme ou pour tenir les poux à distance.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de myrte rouge est reconnue pour ces propriétés :",
@@ -9990,7 +9990,7 @@
   },
   {
     "name": "Huile essentielle de Myrte verte",
-    "image": "assets/images/myrte.jpg",
+    "image": "myrte.jpg",
     "description": "Purifiante, cette huile est traditionnellement conseillée en cas d'inconforts respiratoires et pour libérer la respiration. Elle est également réputée pour ses propriétés tonifiantes et astringentes.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de myrte verte est reconnue pour ces propriétés :",
@@ -10070,7 +10070,7 @@
   },
   {
     "name": "Huile essentielle de Nard jatamansi",
-    "image": "assets/images/nard.jpg",
+    "image": "nard.jpg",
     "description": "L'huile essentielle de nard jatamansi agit sur l'équilibre émotionnel et favorise la pousse des cheveux.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de nard jatamansi est reconnue pour ces propriétés :",
@@ -10144,7 +10144,7 @@
   },
   {
     "name": "Huile essentielle de Néroli",
-    "image": "assets/images/neroli.jpg",
+    "image": "neroli.jpg",
     "description": "L'huile essentielle de néroli (ou fleur d'oranger) est utilisée pour tranquilliser et aussi pour traiter les peaux ridées ou sèches.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de néroli est reconnue pour ces propriétés :",
@@ -10233,7 +10233,7 @@
   },
   {
     "name": "Huile essentielle de Niaouli",
-    "image": "assets/images/niaouli.jpeg",
+    "image": "niaouli.jpeg",
     "description": "Incontournable, l'huile essentielle de niaouli est l'une des plus connues dans le monde de l'aromathérapie. Et pour cause : elle possède d'innombrables vertus (sur le plan circulatoire, sur le système nerveux, etc.), elle dégage de plus un parfum particulièrement agréable. Elle est déconseillée en cas de cancer hormono-dépendants",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de niaouli est reconnue pour ces propriétés :",
@@ -10340,7 +10340,7 @@
   },
   {
     "name": "Huile essentielle d'Orange douce",
-    "image": "assets/images/orange.jpg",
+    "image": "orange.jpg",
     "description": "L'huile essentielle d'orange douce est idéale pour retrouver le calme et ressentir un réel bien-être. Elle permet aussi de bien dormir, de bien digérer, ou encore de parfumer agréablement l'atmosphère, tout en ayant des vertus assainissantes.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'orange douce est reconnue pour ces propriétés :",
@@ -10423,7 +10423,7 @@
   },
   {
     "name": "Huile essentielle d'Orange sanguine",
-    "image": "assets/images/orangesanguine.jpg",
+    "image": "orangesanguine.jpg",
     "description": "Une odeur fabuleuse pour cette huile connue pour ses propriétés relaxantes et optimisantes. Véritable concentré d'orange sanguine, c'est aussi un arôme très original et intéressant en cuisine ou dans vos cocktails.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'orange sanguine est reconnue pour ces propriétés :",
@@ -10504,7 +10504,7 @@
   },
   {
     "name": "Huile essentielle d'Origan compact",
-    "image": "assets/images/origan.jpg",
+    "image": "origan.jpg",
     "description": "L'huile essentielle d'origan compact ou origan vulgaire est une huile antibactérienne et antivirale particulièrement efficace. Elle permet de stimuler le système immunitaire et aussi de lutter contre les mycoses ou la gale. Elle agit comme fortifiant nerveux, physique et sexuel.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'origan compact est reconnue pour ces propriétés :",
@@ -10581,7 +10581,7 @@
   },
   {
     "name": "Huile essentielle d'Origan kaliteri",
-    "image": "assets/images/origan.jpg",
+    "image": "origan.jpg",
     "description": "De par sa teneur réduite en carvacrol, cet origan rare est plus doux que les origans vulgaire et compact et peut s'utiliser sur une plus longue durée. Sa composition très équilibrée forme une synergie optimale de \"puissance tout en douceur\", recommandée par les aromathérapeutes comme soutien en cas de problèmes infectieux. Cette huile essentielle d'Origan Kaliteri encore méconnue a tout pour devenir un indispensable de l'aromathérapie !",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'origan kaliteri est reconnue pour ces propriétés :",
@@ -10660,7 +10660,7 @@
   },
   {
     "name": "Huile essentielle d'Origan vert de Provence",
-    "image": "assets/images/origan.jpg",
+    "image": "origan.jpg",
     "des": "Issue du terroir provençal, cette huille essentielle possède une odeur aromatique intense qui lui confère ses propriétés tonique et positivante. Reconnue pour son action anti-infectieuse puissante, elle est indispensable pour lutter contre les maux de l'hiver.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'origan vert de provence est reconnue pour ces propriétés :",
@@ -10745,7 +10745,7 @@
   },
   {
     "name": "Huile essentielle d'Origan vulgaire",
-    "image": "assets/images/origan.jpg",
+    "image": "origan.jpg",
     "des": "C'est une des huiles purifiantes les plus puissantes, traditionnellement conseillée en accompagnement lors des épisodes infectieux. Tonifiante, assainissante et stimulante, elle est incontournable.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'origan vulgaire est reconnue pour ces propriétés :",
@@ -10811,7 +10811,7 @@
   },
   {
     "name": "Huile essentielle de Palmarosa",
-    "image": "assets/images/palmarosa.jpg",
+    "image": "palmarosa.jpg",
     "description": "Antibactérienne et antifongique, l’huile essentielle de palmarosa est particulièrement indiquée pour ses bienfaits cutanés, respiratoires et ORL. Grâce à ses vertus aphrodisiaques et toniques, cette huile agit également sur le bien-être psychologique de ses utilisateurs.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de palmarosa est reconnue pour ces propriétés :",
@@ -10905,7 +10905,7 @@
   },
   {
     "name": "Huile essentielle de Pamplemousse",
-    "image": "assets/images/pamplemousse.jpg",
+    "image": "pamplemousse.jpg",
     "description": "L'huile essentielle de pamplemousse est très efficace pour lutter contre la cellulite ou la rétention d'eau. On peut l'utiliser pour stopper la chute des cheveux, stimuler l'appétit, désinfecter l'atmosphère ou se détendre...",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de pamplemousse est reconnue pour ces propriétés :",
@@ -11027,7 +11027,7 @@
   },
   {
     "name": "Huile essentielle de Pamplemousse sans furocoumarines",
-    "image": "assets/images/pamplemousse.jpg",
+    "image": "pamplemousse.jpg",
     "description": "Cette huile essentielle de Pamplemousse BIO sans composés photosensibilisants est intéressante pour lutter contre l'aspect de la cellulite et tonifier les peaux mixtes à grasses. Elle est aussi réputée pour stimuler le cuir chevelu.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de pamplemousse sans furocoumarines est reconnue pour ces propriétés :",
@@ -11140,7 +11140,7 @@
   },
   {
     "name": "Huile essentielle de Patchouli",
-    "image": "assets/images/patchouli.jpg",
+    "image": "patchouli.jpg",
     "description": "L'huile essentielle de patchouli est un excellent tonique veineux, qui soulage efficacement les jambes lourdes, les varices. Elle a également des vertus cicatrisantes et anti-inflammatoires idéales pour les peaux à problèmes. On l'utilise aussi bien pour la santé que pour le bien-être ou la beauté.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de patchouli est reconnue pour ces propriétés :",
@@ -11229,7 +11229,7 @@
   },
   {
     "name": "Huile essentielle de Persil",
-    "image": "assets/images/persil.jpg",
+    "image": "persil.jpg",
     "description": "Issue des graines de Persil, cette huile essentielle tonique puissante est traditionnellement conseillée pour aider à favoriser et régulariser les cycles menstruels.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de persil est reconnue pour ces propriétés :",
@@ -11286,7 +11286,7 @@
   },
   {
     "name": "Huile essentielle de Petitgrain Bigarade",
-    "image": "assets/images/petitgrain.jpg",
+    "image": "petitgrain.jpg",
     "description": "L'huile essentielle de petit grain bigaradier (ou orange amère) est efficace pour se détendre, et aussi pour favoriser la cicatrisation, lutter contre les bactéries ou réguler les sécrétions de sébum.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de petitgrain bigarade est reconnue pour ces propriétés :",
@@ -11402,7 +11402,7 @@
   },
   {
     "name": "Huile essentielle de Petitgrain clémentinier",
-    "image": "assets/images/petitgrainclementinier.jpeg",
+    "image": "petitgrainclementinier.jpeg",
     "description": "Calmante, cette huile est appréciée pour apaiser le stress, les insomnies et les tensions émotionnelles. Elle est également connue pour ses effets purifiants et régulateurs. Sa note verte et fruitée est appréciée.",
     "health": {
       "propertiesDesc": "",
@@ -11444,7 +11444,7 @@
   },
   {
     "name": "Huile essentielle de Pin de Patagonie",
-    "image": "assets/images/patagonie.jpg",
+    "image": "patagonie.jpg",
     "description": "Cette huile calmante est très utilisée en cas d'agitation, d'angoisses, de cauchemars et de troubles du sommeil. Elle est aussi réputée pour son aide en accompagnement en cas de maux de ventre ou contractures musculaires.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de pin de patagonie est reconnue pour ces propriétés :",
@@ -11511,7 +11511,7 @@
   },
   {
     "name": "Huile essentielle de Pin lariccio",
-    "image": "assets/images/lariccio.jpeg",
+    "image": "lariccio.jpeg",
     "description": "Purifiante et tonique, cette huile essentielle est très réputée pour faciliter la respiration et lutter contre la fatigue. Assainissante, elle est également appréciée pour sa senteur de conifère.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de pin lariccio est reconnue pour ces propriétés :",
@@ -11577,7 +11577,7 @@
   },
   {
     "name": "Huile essentielle de Pin sylvestre",
-    "image": "assets/images/sylvestre.jpg",
+    "image": "sylvestre.jpg",
     "description": "Le parfum puissant et agréable de l'huile essentielle de pin sylvestre est idéal pour dégager les bronches. Cette huile est également connue pour ses propriétés antiseptiques pulmonaires, dynamisantes et toniques.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de pin sylvestre est reconnue pour ces propriétés :",
@@ -11652,7 +11652,7 @@
   },
   {
     "name": "Huile essentielle de Poivre noir",
-    "image": "assets/images/poivrenoir.jpg",
+    "image": "poivrenoir.jpg",
     "description": "L'huile essentielle de poivre noir est stimulante et tonifiante. Elle réchauffe l'organisme et permet de préparer les muscles à l'effort.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de poivre noir est reconnue pour ces propriétés :",
@@ -11737,7 +11737,7 @@
   },
   {
     "name": "Huile essentielle de Pomelo de Corse",
-    "image": "assets/images/pomelo.jpg",
+    "image": "pomelo.jpg",
     "description": "Issue d'un partenariat avec un producteur-distillateur d'agrumes BIO passionné en Corse, cette huile essentielle d'exception est appréciée pour sa déliceuse odeur fruitée et tonique très fine. Non photosensibilisante grâce à son mode d'extraction à la vapeur, elle est réputée pour ses propriétés stimulantes et purifiantes, et pour son action d'élimination des rétentions graisseuses, ce qui en fait une alliée minceur et détox de choix. C'est aussi une huile essentielle optimisante pour retrouver peps et bonne humeur. Et elle s'invite avec plaisir en cuisine pour parfumer de sa note originale tous types de plats salés ou sucrés.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de pomelo de corse est reconnue pour ces propriétés :",
@@ -11839,7 +11839,7 @@
   },
   {
     "name": "Huile essentielle de Pruche",
-    "image": "assets/images/pruche.jpg",
+    "image": "pruche.jpg",
     "description": "L'huile essentielle de pruche est un équilibrant nerveux puissant.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de pruche est reconnue pour ces propriétés :",
@@ -11898,7 +11898,7 @@
   },
   {
     "name": "Huile essentielle de Ravintsara (Ravintsare)",
-    "image": "assets/images/ravintsare.jpg",
+    "image": "ravintsare.jpg",
     "description": "L'huile essentielle de ravensare aromatique est très appréciée pour ses propriétés anti-infectieuses, relaxantes et fortifiantes. On l'utilise pour lutter contre la fatigue, le stress et les maux de tête ou encore pour assainir l'air.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de ravintsara (ravintsare) est reconnue pour ces propriétés :",
@@ -12007,7 +12007,7 @@
   },
   {
     "name": "Huile essentielle de Rhododendron",
-    "image": "assets/images/rhododendron.jpg",
+    "image": "rhododendron.jpg",
     "description": "Efficace en cas de douleurs articulaires et musculaires, l’huile essentielle de rhododendron est aussi relaxante.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de rhododendron est reconnue pour ces propriétés :",
@@ -12065,7 +12065,7 @@
   },
   {
     "name": "Huile essentielle de Romarin camphré",
-    "image": "assets/images/romarin.jpg",
+    "image": "romarin.jpg",
     "description": "Réputée pour le traitement des affections rhumatismales, l'huile essentielle de romarin camphré provient d'un arbrisseau des garrigues méditerranéennes, utilisé comme plante mellifère et herbe condimentaire.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de romarin à camphre est reconnue pour ces propriétés :",
@@ -12154,7 +12154,7 @@
   },
   {
     "name": "Huile essentielle de Romarin à cinéole",
-    "image": "assets/images/romarin.jpg",
+    "image": "romarin.jpg",
     "description": "Proche de l'eucalyptus radié par sa composition et ses propriétés, l'huile essentielle de romarin à cinéole est un allié de choix dans les infections des voies respiratoires ; elle aide aussi à lutter contre la fatigue chronique.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de romarin à cinéole est reconnue pour ces propriétés :",
@@ -12245,7 +12245,7 @@
   },
   {
     "name": "Huile essentielle de Romarin à verbénone",
-    "image": "assets/images/romarin.jpg",
+    "image": "romarin.jpg",
     "description": "L’huile essentielle de romarin à verbénone présente de nombreuses vertus pour le système digestif, la sphère ORL et aussi le bien-être psychologique.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de romarin à verbénone est reconnue pour ces propriétés :",
@@ -12333,7 +12333,7 @@
   },
   {
     "name": "Huile essentielle de Rosalina",
-    "image": "assets/images/rosalina.jpeg",
+    "image": "rosalina.jpeg",
     "description": "Cette huile qui développe un arôme subtil et frais évoquant la rose s'emploie en diffusion pour ses propriétés calmantes. Elle s'utilise également dans les soin des peaux à imperfections, et parfume agréablement vos préparations.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de rosalina est reconnue pour ces propriétés :",
@@ -12391,7 +12391,7 @@
   },
   {
     "name": "Huile essentielle de Rose de Damas",
-    "image": "assets/images/rose.jpg",
+    "image": "rose.jpg",
     "description": "Très appréciée pour ses propriétés régénératrices, l’huile essentielle de rose de Damas nous fait également profiter de son parfum apaisant si caractéristique. Si son odeur envoûtante est connue de tous, on lui prête souvent une capacité à réguler les émotions.",
     "health": {
       "propertiesDesc": "",
@@ -12461,7 +12461,7 @@
   },
   {
     "name": "Huile essentielle de Santal alba",
-    "image": "assets/images/santal.jpg",
+    "image": "santal.jpg",
     "description": "L'huile essentielle de santal soulage les personnes souffrant d'anxiété, calme les irritations cutanées et soigne l'acné tout en ayant des propriétés antiseptiques.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de santal alba est reconnue pour ces propriétés :",
@@ -12550,7 +12550,7 @@
   },
   {
     "name": "Huile essentielle de Sapin de Sibérie",
-    "image": "assets/images/sapin.jpg",
+    "image": "sapin.jpg",
     "description": "Vous craignez ou subissez les infections ORL de l’hiver ? Pensez à l’huile essentielle de sapin de Sibérie.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de sapin de sibérie est reconnue pour ces propriétés :",
@@ -12603,7 +12603,7 @@
   },
   {
     "name": "Huile essentielle de Sapin baumier",
-    "image": "assets/images/sapin.jpg",
+    "image": "sapin.jpg",
     "description": "L’huile essentielle de sapin baumier est particulièrement utile en cas d’encombrement des voies respiratoires.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de sapin baumier est reconnue pour ces propriétés :",
@@ -12666,7 +12666,7 @@
   },
   {
     "name": "Huile essentielle de Sapin pectiné",
-    "image": "assets/images/sapin.jpg",
+    "image": "sapin.jpg",
     "description": "Réputée pour ses vertus énergétiques, cette huile est traditionnellement utilisée pour augmenter le niveau vibratoire des habitations. Elle est également réputée pour ses vertus purifiantes et respiratoires.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de sapin pectiné est reconnue pour ces propriétés :",
@@ -12734,7 +12734,7 @@
   },
   {
     "name": "Huile essentielle de Saro",
-    "image": "assets/images/saro.jpg",
+    "image": "saro.jpg",
     "description": "L’huile de saro ou de mandravasarotra lutte efficacement contre les infections bactériennes, virales ou dermatologiques. Véritable alliée de votre santé, cette huile aide également à lutter contre la fatigue, l’asthénie et la dépression, grâce à ses vertus relaxantes et neurotoniques.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de saro est reconnue pour ces propriétés :",
@@ -12813,7 +12813,7 @@
   },
   {
     "name": "Huile essentielle de Sarriette des montagnes",
-    "image": "assets/images/sarriette.jpg",
+    "image": "sarriette.jpg",
     "description": "L’huile essentielle de sarriette permet de lutter contre les infections et, en cas de fatigue, se montre dynamisante. Elle s'emploie diluée.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de sarriette des montagnes est reconnue pour ces propriétés :",
@@ -12901,7 +12901,7 @@
   },
   {
     "name": "Huile essentielle de Sauge sclarée",
-    "image": "assets/images/sauge.jpg",
+    "image": "sauge.jpg",
     "description": "L'huile essentielle de sauge sclarée est très efficace pour réguler les problèmes menstruels ou ceux liés à la ménopause. C'est aussi une huile qui a des effets bénéfiques les infections cutanées ou la fatigue.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de sauge sclarée est reconnue pour ces propriétés :",
@@ -12990,7 +12990,7 @@
   },
   {
     "name": "Huile essentielle de Serpolet",
-    "image": "assets/images/serpolet.jpg",
+    "image": "serpolet.jpg",
     "description": "Purifiante et tonique puissante, cette huile essentielle est utilisée en cas de fatigue physique ou psychique. Elle est également traditionnellement réputée pour favoriser la digestion.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de serpolet est reconnue pour ces propriétés :",
@@ -13065,7 +13065,7 @@
   },
   {
     "name": "Huile essentielle de Tagète",
-    "image": "assets/images/tagete.jpeg",
+    "image": "tagete.jpeg",
     "description": "L'huile essentielle de Tagète est très appréciée pour son odeur originale, verte, acidulée et légèrement fruitée, et réputée pour ses effets purifiants",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de tagète est reconnue pour ces propriétés :",
@@ -13120,7 +13120,7 @@
   },
   {
     "name": "Huile essentielle de Tanaisie annuelle",
-    "image": "assets/images/tanaisie.jpeg",
+    "image": "tanaisie.jpeg",
     "description": "Apaisante puissante grâce à sa teneur en chamazulène, cette huile bleue est réputée pour soulager les démangeaisons, irritations et inconforts de la peau. En aromathérapie, elle est conseillée en accompagnement en cas de petites allergies.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de tanaisie annuelle est reconnue pour ces propriétés :",
@@ -13199,7 +13199,7 @@
   },
   {
     "name": "Huile essentielle de Tea tree",
-    "image": "assets/images/tea.jpg",
+    "image": "tea.jpg",
     "description": "Surtout connue pour ses propriétés antivirales, antifongiques et antiseptiques, l’huile essentielle de tea tree (ou arbre à thé) est incontournable pour tous les problèmes de peau et notamment les mycoses. Elle peut aussi être employée au quotidien, pour combattre les petites impuretés et les boutons. Une huile essentielle à avoir toujours sur soi, pour parer à toutes les éventualités.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de tea tree est reconnue pour ces propriétés :",
@@ -13331,7 +13331,7 @@
   },
   {
     "name": "Huile essentielle de Tea tree citronné",
-    "image": "assets/images/tea.jpg",
+    "image": "tea.jpg",
     "description": "Originaire d'Australie, cette huile développe un parfum subtil frais et citronné. Calmante et relaxante, elle est réputée pour apaiser la nervosité, lutter contre la morosité et redonner de l'optimisme.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de tea tree citronné est reconnue pour ces propriétés :",
@@ -13386,7 +13386,7 @@
   },
   {
     "name": "Huile essentielle de Térébenthine",
-    "image": "assets/images/terebenthine.jpg",
+    "image": "terebenthine.jpg",
     "description": "L'huile essentielle de térébenthine assure l'oxygénation des systèmes respiratoire et musculaire. C'est aussi un antalgique.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de térébenthine est reconnue pour ces propriétés :",
@@ -13449,7 +13449,7 @@
   },
   {
     "name": "Huile essentielle de Thym à géraniol",
-    "image": "assets/images/thym.jpg",
+    "image": "thym.jpg",
     "description": "L'huile essentielle de thym à géraniol, à l'odeur douce et citronnée, est connu pour ses effets purifiants, toniques et stimulants. Elle est plus douce que celle de thym à thymol.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de thym à géraniol est reconnue pour ces propriétés :",
@@ -13531,7 +13531,7 @@
   },
   {
     "name": "Huile essentielle de Thym à linalol",
-    "image": "assets/images/thym.jpg",
+    "image": "thym.jpg",
     "description": "Très douce et purifiante, l'huile essentielle de Thym à linalol est conseillée en cas de problèmes de peau, mais aussi comme une aide naturelle lors des infections hivernales. Tonique, elle est intéressante en cas de fatigue.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de thym à linalol est reconnue pour ces propriétés :",
@@ -13599,7 +13599,7 @@
   },
   {
     "name": "Huile essentielle de Thym à linalol de Provence",
-    "image": "assets/images/thym.jpg",
+    "image": "thym.jpg",
     "description": "Très douce, l'huile essentielle de Thym à linalol de Provence est conseillée en cas de problèmes de peau. Purifiante, l'huile essentielle de Thym à linalol de Provence est réputée comme une aide naturelle lors des infections hivernales. Tonique, l'huile essentielle de Thym à linalol de Provence est intéressante en cas de fatigue.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de thym à linalol de provence est reconnue pour ces propriétés :",
@@ -13667,7 +13667,7 @@
   },
   {
     "name": "Huile essentielle de Thym à thujanol",
-    "image": "assets/images/thym.jpg",
+    "image": "thym.jpg",
     "description": "L'huile essentielle de thym à thujanol fait partie des incontournables. C'est un anti-infectieux puissant mais doux à utiliser. Elle parfaitement indiquée en cas de maux de gorge.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de thym à thujanol est reconnue pour ces propriétés :",
@@ -13770,7 +13770,7 @@
   },
   {
     "name": "Huile essentielle de Thym à thymol",
-    "image": "assets/images/thym.jpg",
+    "image": "thym.jpg",
     "description": "L’huile essentielle de thym à thymol, que l’on prendra soin de différencier des autres huiles essentielles de thym (thym à thujanol, à linalol, à bornéol, etc.) On l’emploie pour son pouvoir purifiant. Le thym a une action désinfectante et antiseptique. Il entre dans la composition de nombreux mélanges d’huiles essentielles contre les affections hivernales. C'est aussi un tonique puissant. Elle stimule l’énergie de l’organisme et fortifie les nerfs. Elle constitue donc une arme de choix contre les états de fatigue (physique et psychique). C’est une HE à usage délicat car elle est dermocaustique, c’est-à-dire qu’elle brûle la peau.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de thym à thymol est reconnue pour ces propriétés :",
@@ -13831,7 +13831,7 @@
   },
   {
     "name": "Huile essentielle de Thym saturéoïdes",
-    "image": "assets/images/thym.jpg",
+    "image": "thym.jpg",
     "description": "Cette espèce de Thym, riche en carvacrol, est traditionnellement utilisée pour accompagner l'immunité naturelle lors des épisodes hivernaux et fortifier les convalescents. Elle est réputée pour un effet stimulant physique et mental.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de thym saturéoïdes est reconnue pour ces propriétés :",
@@ -13917,7 +13917,7 @@
   },
   {
     "name": "Huile essentielle de Valériane des Indes",
-    "image": "assets/images/valeriane.jpg",
+    "image": "valeriane.jpg",
     "description": "A ne pas confondre avec la Valériane officinale, cette huile essentielle tonique est traditionnellement utilisée pour favoriser le confort circulatoire. Elle est également recommandée en cas de fatigue profonde.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de valériane des indes est reconnue pour ces propriétés :",
@@ -13970,7 +13970,7 @@
   },
   {
     "name": "Huile essentielle de Verge d'or",
-    "image": "assets/images/vergeor.jpeg",
+    "image": "vergeor.jpeg",
     "description": "Riche en germacrène-D, connu comme anti-inflammatoire, cette huile essentielle est traditionnellement conseillée comme une aide en cas de rhumatismes et inconforts articulaires ou musculaires. Calmante, elle atténue tensions et nervosité.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de verge d'or est reconnue pour ces propriétés :",
@@ -14032,7 +14032,7 @@
   },
   {
     "name": "Huile essentielle de Verveine odorante",
-    "image": "assets/images/verveine.jpg",
+    "image": "verveine.jpg",
     "description": "L’huile essentielle de verveine odorante présente bien des vertus, particulièrement antiseptiques et anti-inflammatoires. Elle ne doit pas être confondue avec la verveine officinale.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de verveine odorante est reconnue pour ces propriétés :",
@@ -14102,7 +14102,7 @@
   },
   {
     "name": "Huile essentielle de Vétiver d'Haïti",
-    "image": "assets/images/vetivier.jpg",
+    "image": "vetivier.jpg",
     "description": "L'huile essentielle de vétiver agit sur le stress et permet de lutter contre les insomnies.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de vétiver d'haïti est reconnue pour ces propriétés :",
@@ -14172,7 +14172,7 @@
   },
   {
     "name": "Huile essentielle de Xanthoxylum",
-    "image": "assets/images/xanthoxylum.jpg",
+    "image": "xanthoxylum.jpg",
     "description": "Calmante, cette huile essentielle est conseillée en cas de surmenage ou tensions nerveuses. Son parfum très agréable, rafraîchissant et épicé est apprécié. Elle a également des effets purifiants et assainissants.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de xanthoxylum est reconnue pour ces propriétés :",
@@ -14221,7 +14221,7 @@
   },
   {
     "name": "Huile essentielle d'Ylang-Ylang complète",
-    "image": "assets/images/ylang.jpg",
+    "image": "ylang.jpg",
     "description": "Cette huile au parfum puissant et voluptueux est reconnue pour agir contre le stress et l'agitation et réputée comme aphrodisiaque. Incontournable, elle est également utilisée pour ses effets toniques, régulateurs et régénérants.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'ylang-ylang complète est reconnue pour ces propriétés :",
@@ -14341,7 +14341,7 @@
   },
   {
     "name": "Huile essentielle d'Ylang-Ylang III",
-    "image": "assets/images/ylang.jpg",
+    "image": "ylang.jpg",
     "description": "Cette huile au parfum exotique puissant et voluptueux est incontournable et connue pour ses effets toniques, régulateurs et régénérants. Réputée comme aphrodisiaque, elle aide aussi à calmer la nervosité et à lutter contre les tensions nerveuses.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle d'ylang-ylang iii est reconnue pour ces propriétés :",
@@ -14452,7 +14452,7 @@
   },
   {
     "name": "Huile essentielle de Yuzu",
-    "image": "assets/images/yuzu.jpg",
+    "image": "yuzu.jpg",
     "description": "Cette huile essentielle rare est non photosensibilisante est recherchée pour ses notes subtiles et fraîches d'agrume. Relaxante, elle est utile en cas de stress, fatigue et difficultés d'endormissement. En cuisine, c'est un arôme original.",
     "health": {
       "propertiesDesc": "",
@@ -14521,7 +14521,7 @@
   },
   {
     "name": "Huile essentielle de Zédoaire",
-    "image": "assets/images/zedoaire.jpg",
+    "image": "zedoaire.jpg",
     "description": "Également appelée \"Safran des Indes\", le Zédoaire est traditionnellement réputé pour ses vertus digestives. Son huile essentielle développe une senteur à la fois fraîche, boisée et épicée.",
     "health": {
       "propertiesDesc": "En santé, l'huile essentielle de zédoaire est reconnue pour ces propriétés :",
@@ -14575,7 +14575,7 @@
   },
   {
     "name": "Huile essentielle de Copahu",
-    "image": "assets/images/copahu.jpg",
+    "image": "copahu.jpg",
     "description": "L'huile essentielle de copahu est un anti-inflammatoire puissant, un cicatrisant et un stimulant de la circulation sanguine.",
     "health": {
       "propertiesDesc": "En santé, le baume de copahu est reconnue pour ces propriétés :",

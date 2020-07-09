@@ -50,7 +50,6 @@ const deleteIndex = () => {
 const initCluster = () => {
   client.indices.exists({ index: INDEX }).then(exists => {
     if (exists) {
-      return;
       log.info("delete index");
       deleteIndex();
     }
