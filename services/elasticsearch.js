@@ -100,7 +100,7 @@ module.exports = {
     return client.search({
       index: INDEX,
       body: {
-        size: 8,
+        size: 10,
         query: {
           function_score: {
             functions: [
