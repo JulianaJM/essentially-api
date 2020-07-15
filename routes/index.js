@@ -36,7 +36,7 @@ router.get("/oils/results", function (req, res) {
   elasticsearchService
     .search(termsOfSearch, offset)
     .then((results) => {
-      console.log(results);
+      // console.log(results.hits.hits);
       res.json(results.hits);
     })
     .catch((err) => {
@@ -56,7 +56,7 @@ router.get("/oils/name", function (req, res) {
 });
 
 router.get("/oils/suggestions", function (req, res) {
-  console.log(req.query)
+  // console.log(req.query)
   elasticsearchService
     .getSuggestions(req.query.value)
     .then((results) => res.json(results.hits.hits))

@@ -182,18 +182,18 @@
       "name": {
         "type": "text",
         "fields": {
-          "raw": {
-            "type": "text",
-            "index": false
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
           }
         }
       },
       "image": {
         "type": "text",
         "fields": {
-          "raw": {
-            "type": "text",
-            "index": false
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
           }
         }
       },
@@ -209,9 +209,9 @@
       "precautions": {
         "type": "text",
         "fields": {
-          "raw": {
-            "type": "text",
-            "index": false
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
           }
         }
       },
@@ -220,18 +220,18 @@
           "recipesContent": {
             "type": "text",
             "fields": {
-              "raw": {
-                "type": "text",
-                "index": false
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
               }
             }
           },
           "recipesTitle": {
             "type": "text",
             "fields": {
-              "raw": {
-                "type": "text",
-                "index": false
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
               }
             }
           }

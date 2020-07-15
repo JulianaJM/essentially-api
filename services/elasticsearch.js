@@ -9,9 +9,9 @@ const buildFullTextSearchQuery = (terms, offset) => {
   terms.forEach((t, i) => {
     if (t) {
       if (i === terms.length - 1) {
-        queryString += `(${t}~)`; // ~ enables fuzzy search
+        queryString += `"(${t}~ )"`; // ${t}~ enables fuzzy search
       } else {
-        queryString += `(${t}~) OR `;
+        queryString += `"(${t}~") OR `;
       }
     }
   });
@@ -22,16 +22,16 @@ const buildFullTextSearchQuery = (terms, offset) => {
       query_string: {
         query: queryString,
         minimum_should_match: 2,
-        fields: [
-          "name",
-          "ideal",
-          "health.indicationsDesc",
-          "mood.indicationsDesc",
-          "beauty.indicationsDesc",
-          "health.indications",
-          "mood.indications",
-          "beauty.indications",
-        ],
+        // fields: [
+        //   "name",
+        //   "ideal",
+        //   "health.indicationsDesc",
+        //   "mood.indicationsDesc",
+        //   "beauty.indicationsDesc",
+        //   "health.indications",
+        //   "mood.indications",
+        //   "beauty.indications",
+        // ], // FIXME  not working when words have apostrophe (eg d'anis d'ail)...
       },
     },
     highlight: {
@@ -84,7 +84,7 @@ module.exports = {
       body: {
         query: {
           query_string: {
-            query: `${term}~`,
+            query: `"${term}~"`,
             // minimum_should_match: 2,
             fields: [
               "name",
