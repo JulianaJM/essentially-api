@@ -8,37 +8,25 @@ const buildFullTextSearchQuery = (terms, offset) => {
   console.log(terms);
   terms.forEach((t, i) => {
     if (t) {
-      if (i === terms.length - 1) {
-        queryString += `"(${t}~ )"`; // ${t}~ enables fuzzy search
-      } else {
-        queryString += `"(${t}~") OR `;
-      }
+      queryString += `*${t}*`;
+      // if (i === terms.length - 1) {
+      //   queryString += `"(${t}~ )"`; // ${t}~ enables fuzzy search
+      // } else {
+      //   queryString += `"(${t}~") OR `;
+      // }
     }
   });
 
   const body = {
     from: offset,
     query: {
-      query_string: {
+      "query_string": {
+        fields: [ "name", "ideal", "*indicationsDesc", "*indications" ], 
         query: queryString,
-        minimum_should_match: 2,
-        // fields: [
-        //   "name",
-        //   "ideal",
-        //   "health.indicationsDesc",
-        //   "mood.indicationsDesc",
-        //   "beauty.indicationsDesc",
-        //   "health.indications",
-        //   "mood.indications",
-        //   "beauty.indications",
-        // ], // FIXME  not working when words have apostrophe (eg d'anis d'ail)...
-      },
-    },
-    highlight: {
-      fields: {
-        "*": {},
-      },
-    },
+        analyzer: "simple",
+        default_operator: "AND"
+      }
+    }
   };
   return body;
 };

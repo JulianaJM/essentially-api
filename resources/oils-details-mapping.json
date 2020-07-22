@@ -40,13 +40,7 @@
             }
           },
           "synergies": {
-            "type": "text",
-            "fields": {
-              "keyword": {
-                "type": "keyword",
-                "ignore_above": 256
-              }
-            }
+            "type": "text"
           }
         }
       },
@@ -89,13 +83,7 @@
             }
           },
           "synergies": {
-            "type": "text",
-            "fields": {
-              "keyword": {
-                "type": "keyword",
-                "ignore_above": 256
-              }
-            }
+            "type": "text"
           }
         }
       },
@@ -169,13 +157,7 @@
             }
           },
           "synergies": {
-            "type": "text",
-            "fields": {
-              "raw": {
-                "type": "text",
-                "index": false
-              }
-            }
+            "type": "text"
           }
         }
       },
@@ -187,24 +169,13 @@
             "ignore_above": 256
           }
         }
+  
       },
       "image": {
-        "type": "text",
-        "fields": {
-          "keyword": {
-            "type": "keyword",
-            "ignore_above": 256
-          }
-        }
+        "type": "text"
       },
       "description": {
-        "type": "text",
-        "fields": {
-          "keyword": {
-            "type": "keyword",
-            "ignore_above": 256
-          }
-        }
+        "type": "text"
       },
       "precautions": {
         "type": "text",
@@ -218,30 +189,35 @@
       "recipes": {
         "properties": {
           "recipesContent": {
-            "type": "text",
-            "fields": {
-              "keyword": {
-                "type": "keyword",
-                "ignore_above": 256
-              }
-            }
+            "type": "text"
           },
           "recipesTitle": {
-            "type": "text",
-            "fields": {
-              "keyword": {
-                "type": "keyword",
-                "ignore_above": 256
-              }
-            }
+            "type": "text"
           }
         }
       }
     }
   },
   "settings": {
-    "index": {
-      "number_of_shards": "1"
+    "analysis": {
+      "filter": {
+        "autocomplete_filter": {
+          "type": "edge_ngram",
+          "min_gram": 1,
+          "max_gram": 20
+        }
+      },
+      "analyzer": {
+        "autocomplete": { 
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "lowercase",
+            "autocomplete_filter",
+            "asciifolding"
+          ]
+        }
+      }
     }
   }
 }
