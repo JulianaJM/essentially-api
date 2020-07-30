@@ -77,6 +77,8 @@ module.exports = {
             fields: [
               "name",
               "ideal",
+              "*indications",
+              "*indicationsDesc"
             ],
           },
         },
