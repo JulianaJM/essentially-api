@@ -1533,7 +1533,7 @@
       ],
       "indicationsDesc": "L'huile essentielle de Bois de Hô est traditionnellement utilisée pour améliorer les situations suivantes :",
       "indications": [
-        "Rhino-pharyngites, rhumes, Bronchites, grippes",
+        "Rhino-Pharyngites, rhumes, Bronchites, grippes",
         "Cystites", "vaginites", "leucorrhées", "vulvites",
         "Mycoses cutanées, unguéales et gynécologiques",
         "Asthénies", "baisse d'immunité"
@@ -1617,7 +1617,7 @@
       ],
       "indicationsDesc": "L'huile essentielle de Bois de rose est traditionnellement utilisée pour améliorer les situations suivantes :",
       "indications": [
-        "Infections ORL et broncho-pulmonaires : Bronchite, grippe, laryngite, pharyngite, Otites moyennes, rhumes, sinusite...",
+        "Infections ORL et broncho-pulmonaires : Bronchite, grippe, laryngite, Pharyngite, Otites moyennes, rhumes, sinusite...",
         "Infections urinaires et gynécologiques : cystites, vaginite, vulvite, leucorrhée, urétrites",
         "Mycoses cutanées, unguéales et gynécologiques",
         "Problèmes de peau, dermatoses, eczéma, escarres, cicatrisation difficile, furoncles"
@@ -1992,7 +1992,7 @@
     "ideal": [
       "Bronchite",
       "Grippe",
-      "Laryngite, pharyngite",
+      "Laryngite, Pharyngite",
       "Rhume, nez bouché, nez qui coule"
     ],
     "utilisations": [
@@ -2856,7 +2856,7 @@
       "indicationsDesc": "L'huile essentielle de Cèdre de l'Atlas est traditionnellement utilisée pour améliorer les situations suivantes :",
       "indications": [
         "Dermatoses fongiques ou parasitaires",
-        "Eczéma, psoriasis",
+        "Eczéma", "Psoriasis",
         "Toux, rhumes, rhumes des foins",
         "Douleurs articulaires, Rhumatismes"
       ],
@@ -4901,7 +4901,7 @@
       "indications": [
         "Infections gynécologiques et urinaires d'origine virale ou bactérienne",
         "Parasitoses intestinales",
-        "Sphère ORL : rhinopharyngite, Bronchite",
+        "Sphère ORL : rhinoPharyngite, Bronchite",
         "Arthrite", "Rhumatismes articulaires",
         "Paludisme (en complément des traitements)"
       ],
@@ -5047,7 +5047,7 @@
       ],
       "indicationsDesc": "Elle est traditionnellement utilisée pour améliorer les situations suivantes : ",
       "indications": [
-        "Affections des voies respiratoires : Bronchites asthmatiformes, rhino-pharyngites, laryngites, Sinusites…",
+        "Affections des voies respiratoires : Bronchites asthmatiformes, rhino-Pharyngites, laryngites, Sinusites…",
         "Affections virales : grippes, rhumes...",
         "Pour fluidifier les expectorations bronchiques",
         "Adénite virale (mononucléose)",
@@ -5099,8 +5099,8 @@
       "Bronchite",
       "Immunité (Stimuler lʹ)",
       "Grippe",
-      "Laryngite, pharyngite",
-      "Rhume, nez bouché, nez qui coule",
+      "Laryngite", "Pharyngite",
+      "Rhume", "Nez bouché", "Nez qui coule",
       "Sinusite",
       "Toux grasse"
     ],
@@ -5133,7 +5133,7 @@
         "peaux squameuses",
         "plaies atones",
         "peaux grasses",
-        "Aider à soulager les inconforts urinaires et gynécologiques  : infection urinaire, cystite, vaginite leucorrhéique..."
+        "Aider à soulager les inconforts urinaires et gynécologiques : infection urinaire, cystite, vaginite leucorrhéique..."
       ],
       "synergies": []
     },
@@ -5167,7 +5167,7 @@
         "Cellulite (D. Festy)"
       ],
       "recipesContent": [
-        "Voie olfactive : L'aroma-conseil sevrage tabac À réaliser dans un flacon de 10 ml en verre teinté, muni d'un compte-gouttes HE bois de santal, Santalum album 1,5 ml /  HE encens, Boswelia carterii 0,5 ml  / HE eucalyptus mentholé, Eucalyptus dives 0,5 ml /  HE menthe poivrée, Mentha x piperita 0,5 ml ou 10 à 15 gouttes /  HV noyau d'abricot 7 ml/À chaque compulsion : 1 goutte à l'intérieur des poignets à respirer profondément 5 fois de suite. Répéter ce geste 6 à 8 fois par jour pendant toute la période de sevrage /CONTRE-INDICATIONS : sujets cardiaques et ou hypertendus, sujets épileptiques, femmes enceintes et allaitantes Extrait du livre Le grand guide de l'aromathérapie et des soins beauté naturels, par Aude Maillard et Aroma-Zone, édition J'ai Lu, 2016",
+        "Voie olfactive : L'aroma-conseil sevrage tabac /À réaliser dans un flacon de 10 ml en verre teinté, muni d'un compte-gouttes HE bois de santal, Santalum album 1,5 ml /  HE encens, Boswelia carterii 0,5 ml  / HE eucalyptus mentholé, Eucalyptus dives 0,5 ml /  HE menthe poivrée, Mentha x piperita 0,5 ml ou 10 à 15 gouttes /  HV noyau d'abricot 7 ml/À chaque compulsion : 1 goutte à l'intérieur des poignets à respirer profondément 5 fois de suite./ Répéter ce geste 6 à 8 fois par jour pendant toute la période de sevrage /CONTRE-INDICATIONS : sujets cardiaques et ou hypertendus, sujets épileptiques, femmes enceintes et allaitantes Extrait du livre Le grand guide de l'aromathérapie et des soins beauté naturels, par Aude Maillard et Aroma-Zone, édition J'ai Lu, 2016",
         "HE Eucalyptus mentholé 1 ml / HE Lavande aspic 1 ml / HE Tea tree 2 ml / HE Romarin à verbénone 1 ml / Utilisation: Quelques gouttes du mélange point par point deux fois par jour.",
         "À réaliser dans un pot de 50 g HE géranium rosat, Pelargonium graveolens CV Égypte 1 g /  HE eucalyptus mentholé, Eucalyptus dives 1 g /  HE palmarosa, Cymbopogon martinii 1 g /  HE tea tree, Melaleuca alternifolia 1 g  / Baume de copahu, Copaifera officinalis 1 g /  HV jojoba 1 g /   Gel d'aloe vera 44 g/Utilisation : En application généreuse sur les zones à traiter (peau ou cuir chevelu), au moins 2 fois par jour (tous les soirs pour le cuir chevelu et procéder au shampoing le lendemain matin), 15 jours /MODE OPÉRATOIRE : matériel nécessaire : un mini-mortier, une mini-balance, un mini-pilon ou un mini-fouet. Poser le mortier sur la balance, puis la tarer. Y peser toutes les huiles essentielles selon les quantités indiquées, ensuite l'huile végétale de jojoba, homogénéiser à l'aide du fouet. Puis rajouter jusqu'à 50 g le gel d'aloe vera. Mélanger hors de la balance jusqu'à ce que la miscibilité soit complète entre les deux phases. Ce gel est à conserver de préférence au frais et est à utiliser dans les deux mois Extrait du livre Le grand guide de l'aromathérapie et des soins beauté naturels, par Aude Maillard et Aroma-Zone, édition J'ai Lu, 2016",
         "HE Mentha piperita (Menthe poivrée) : 3 ml / HE Lavandula latifolia (Lavande Aspic) : 2 ml / HE Melaleuca alternifolia (Tea tree) : 4 ml / HE Eucalyptus dives (Eucalyptus mentholé) : 1 ml / Utilisation : 3 gouttes 3 fois par jour sur le front et sur un mouchoir pour inhaler à volonté.",
@@ -5176,12 +5176,15 @@
       ]
     },
     "ideal": [
-      "Acné", "Boutons",
+      "Acné", 
+      "Boutons",
       "Cellulite",
       "Bronchite",
-      "Laryngite, pharyngite",
+      "Laryngite, Pharyngite",
       "Otite",
-      "Rhume", "Nez bouché", "Nez qui coule",
+      "Rhume", 
+      "Nez bouché", 
+      "Nez qui coule",
       "Sinusite",
       "Toux grasse"
     ],
@@ -5206,13 +5209,13 @@
         "Décongestionnante nasale, elle débouche le nez en douceur et facilite la respiration.",
         "Traditionnellement utilisée pour éloigner les insectes"
       ],
-      "indicationsDesc": "L'huile essentielle d'Eucalyptus radié est traditionnellement utilisée pour améliorer les situations suivantes : Infections ORL et virus hivernaux : rhumes, grippes, Bronchites, rhino-pharyngites, rhinites, Sinusites, Otites… / Rhinites allergiques (rhume des foins) / Toux grasses / Cystites, vaginites, leucorrhées / Asthénie, fatigue, baisse d'immunité / Diffusion pour chasser les insectes",
+      "indicationsDesc": "L'huile essentielle d'Eucalyptus radié est traditionnellement utilisée pour améliorer les situations suivantes : Infections ORL et virus hivernaux : rhumes, grippes, Bronchites, rhino-Pharyngites, rhinites, Sinusites, Otites… / Rhinites allergiques (rhume des foins) / Toux grasses / Cystites, vaginites, leucorrhées / Asthénie, fatigue, baisse d'immunité / Diffusion pour chasser les insectes",
       "indications": [
-        "Infections ORL et virus hivernaux : rhumes, grippes, Bronchites, rhino-pharyngites, rhinites, Sinusites, Otites…",
+        "Infections ORL et virus hivernaux : rhumes, grippes, Bronchites, rhino-Pharyngites, rhinites, Sinusites, Otites…",
         "Rhinites allergiques (rhume des foins)",
         "Toux grasses",
-        "Cystites, vaginites, leucorrhées",
-        "Asthénie, fatigue, baisse d'immunité",
+        "Cystites", "Vaginites", "Leucorrhées",
+        "Asthénie", "Fatigue", "Baisse d'immunité",
         "Diffusion pour chasser les insectes"
       ],
       "synergies": [
@@ -5223,7 +5226,7 @@
     "mood": {
       "propertiesDesc": "En bien-être, l'huile essentielle d'eucalyptus radié est reconnue pour ces propriétés :",
       "properties": [
-        "Énergisante, positivante.",
+        "Énergisante", "Positivante.",
         "Excellent tonique mental, favorise la mémoire et la concentration.",
         "Clarifie les pensées.",
         "Aide à se fixer des priorités."
@@ -5242,7 +5245,7 @@
       "indicationsDesc": "Elle est traditionnellement conseillée dans les cas suivants :",
       "indications": [
         "Savons purifiants",
-        "Soins des peaux sujette à imperfections, peaux à tendance acnéique"
+        "Soins des peaux sujette à imperfections", "Peaux à tendance acnéique"
       ],
       "synergies": [
         "Pour une action purifiante : extrait de Propolis, extrait de Bardane, Extrait CO2 de Barbe de Jupiter, huiles essentielles de Saro, Fragonia, Manuka"
@@ -5282,8 +5285,8 @@
     "ideal": [
       "Immunité (Stimuler lʹ)",
       "Grippe",
-      "Laryngite, pharyngite",
-      "Rhume, nez bouché, nez qui coule",
+      "Laryngite", "Pharyngite",
+      "Rhume", "Nez bouché", "Nez qui coule",
       "Sinusite",
       "Toux grasse"
     ],
@@ -5309,7 +5312,7 @@
       ],
       "indicationsDesc": "L'huile essentielle d'Eucalyptus smithii est traditionnellement utilisée pour améliorer les situations suivantes :",
       "indications": [
-        "Rhinites, rhino-pharyngites, grippes, rhumes",
+        "Rhinites, rhino-Pharyngites, grippes, rhumes",
         "Otites, Sinusites, toux...",
         "Cystites, vaginites"
       ],
@@ -5349,14 +5352,14 @@
         "Maladies infantiles : varicelle, rougeole, scarlatine (enfant de + de 6 ans, après consultation d'un médecin et sur avis médical) (Aroma News - NARD)"
       ],
       "recipesContent": [
-        "HE Melaleuca alternifolia (Tea tree) : 1 ml   HE Cistus ladaniferus CT pinene (Ciste ladanifère) : 2 ml   HE Cinnamomum camphora (Ravintsara) : 2 ml   HE Eucalyptus smithii (Eucalyptus smithii) : 2 ml   HV noisette : complément à 15 mlUtilisation  : 6 gouttes sur le thorax et le dos 3 à 4 fois par jour pendant 1 semaine"
+        "HE Melaleuca alternifolia (Tea tree) : 1 ml /  HE Cistus ladaniferus CT pinene (Ciste ladanifère) : 2 ml  / HE Cinnamomum camphora (Ravintsara) : 2 ml /  HE Eucalyptus smithii (Eucalyptus smithii) : 2 ml  / HV noisette : complément à 15 ml/Utilisation : 6 gouttes sur le thorax et le dos 3 à 4 fois par jour pendant 1 semaine"
       ]
     },
     "ideal": [
       "Immunité (Stimuler lʹ)",
       "Grippe",
-      "Laryngite, pharyngite",
-      "Rhume, nez bouché, nez qui coule",
+      "Laryngite, Pharyngite",
+      "Rhume", "Nez bouché", "Nez qui coule",
       "Sinusite",
       "Toux grasse"
     ],
@@ -5436,8 +5439,8 @@
     ],
     "recipes": { "recipesTitle": [], "recipesContent": [] },
     "ideal": [
-      "Arthrite, Arthrose, Rhumatismes",
-      "Dépression (nerveuse), déprime",
+      "Arthrite", "Arthrose", "Rhumatismes",
+      "Dépression (nerveuse)", "Déprime",
       "Insomnie",
       "Stress"
     ],
@@ -5649,7 +5652,7 @@
         "Sentiment de persécution",
         "Conflits intérieurs",
         "Situations conflictuelles répétitives",
-        "Baisse de moral, Angoisses",
+        "Baisse de moral", "Angoisses",
         "Mal-être",
         "Accumulation de rancunes et de sentiments négatifs",
         "Excès de Yang"
@@ -5677,7 +5680,7 @@
       "Téléchargez les précautions générales à lire avant toute utilisation d'huiles essentielles. Dangereux. Respecter les précautions d'emploi. Nocif en cas d'ingestion. Peut provoquer une allergie cutanée. Provoque une irritation cutanée (risque lié au produit sous forme pure)."
     ],
     "recipes": { "recipesTitle": [], "recipesContent": [] },
-    "ideal": ["Acné, boutons"],
+    "ideal": ["Acné", "Boutons"],
     "utilisations": [
       "Bain aromatique +",
       "Actif cosmétique ++",
@@ -5729,7 +5732,7 @@
     "recipes": {
       "recipesTitle": ["Parfum \"Dancing Touch\" pour Elle (A. Erligmann)"],
       "recipesContent": [
-        "HV Jojoba bio : 25,1 g ou 29,2 ml   HE Amyris : 0,12 g soit 4 gouttes   HE Sauge sclarée : 0,18 g soit 6 gouttes   HE Ylang-ylang : 0,03 g soit 1 goutte   Absolue de jasmin Sambac : 0,06 g soit 2 gouttes   HE Lemongrass : 0,06 g soit 2 gouttes   HE Galbanum : 0,03 g soit 1 goutte   HE Citron vert : 0,12 g soit 5 gouttes   HE Citron bio (sans furocoumarines) : 0,3 g soit 13 gouttesMode opératoire  : Versez l'huile de jojoba dans un bol. Ajoutez les HE et l'absolue de jasmin, en mélangeant bien à chaque ajout. Transvasez le parfum dans votre roll-on à l'aide d'un entonnoir"
+        "HV Jojoba bio : 25,1 g ou 29,2 ml /  HE Amyris : 0,12 g soit 4 gouttes /  HE Sauge sclarée : 0,18 g soit 6 gouttes /  HE Ylang-ylang : 0,03 g soit 1 goutte  / Absolue de jasmin Sambac : 0,06 g soit 2 gouttes  / HE Lemongrass : 0,06 g soit 2 gouttes /  HE Galbanum : 0,03 g soit 1 goutte  / HE Citron vert : 0,12 g soit 5 gouttes /  HE Citron bio (sans furocoumarines) : 0,3 g soit 13 gouttes/Mode opératoire : Versez l'huile de jojoba dans un bol. Ajoutez les HE et l'absolue de jasmin, en mélangeant bien à chaque ajout. Transvasez le parfum dans votre roll-on à l'aide d'un entonnoir"
       ]
     },
     "ideal": [],
@@ -5814,17 +5817,17 @@
         "HE Gaultheria procumbens (Gaulthérie couchée) : 1 ml / HE Mentha piperita (Menthe poivrée ) : 2 ml / HE Laurus nobilis (Laurier noble) : 0,5 ml / HE Lavandula angustifolia (Lavande vraie) : 1 ml / HV Noisette : complément à 10 ml / Utilisation : 2 gouttes localement à répéter selon les besoins.",
         "HE Gaulthérie : 1 goutte / HE Eucalyptus citronné : 2 gouttes / HE Genévrier commun : 1 goutte / Utilisation : 4 à 6 fois par jour localement.",
         "HE Gaulthérie couchée : 10 gouttes / HE Romarin officinal à cinéole :10 gouttes / HE Laurier noble : 5 gouttes / HV Macadamia : 15 ml / Utilisation : Quelques gouttes en massage doux des parties douloureuses. A répéter au besoin.",
-        "HE Satureia montana (Sarriette des montagnes): 1 ml   HE Thymus satureoides (Thym satureoides) : 2 ml   HE Gaultheria procumbens (Gaulthérie couchée) : 2 ml   HE Thymus vulgaris CT thujanol (Thym vulgaire à thujanol) : 0.5 ml   HE Lavandula x burnatii CT Super (Lavandin Super) : 4 ml   HE Eucalyptus polybractea CT Cryptone (Eucalyptus à cryptone) : 0.5 ml   Huile végétale : complément à 100 mlUtilisation  : 3 à 4 applications locales par jour pendant 15 jours (continuer si nécessaire) ET HE Picea mariana (Epinette Noire) : 3 ml   HE Pinus sylvestris ( Pin sylvestre) : 7 ml   Transcutol : complément à 30 mlUtilisation  : 8 gouttes en onctions surrénaliennes (au niveau des reins) 2 fois par jour Commentaire Aroma-Zone  : Le transcutol est une préparation pharmaceutique peu répandue qui permet de faire pénétrer facilement les corps gras comme les huiles essentielles au niveau de la peau. Il peut être facilement remplacé par une huile végétale sèche comme l'huile végétale de Noisette, de Kukui, ou de Macadamia",
+        "HE Satureia montana (Sarriette des montagnes): 1 ml /  HE Thymus satureoides (Thym satureoides) : 2 ml  / HE Gaultheria procumbens (Gaulthérie couchée) : 2 ml /  HE Thymus vulgaris CT thujanol (Thym vulgaire à thujanol) : 0.5 ml /  HE Lavandula x burnatii CT Super (Lavandin Super) : 4 ml /  HE Eucalyptus polybractea CT Cryptone (Eucalyptus à cryptone) : 0.5 ml /  Huile végétale : complément à 100 ml / Utilisation : 3 à 4 applications locales par jour pendant 15 jours (continuer si nécessaire) ET HE Picea mariana (Epinette Noire) : 3 ml /  HE Pinus sylvestris ( Pin sylvestre) : 7 ml /  Transcutol : complément à 30 ml/Utilisation : 8 gouttes en onctions surrénaliennes (au niveau des reins) 2 fois par jour /Commentaire Aroma-Zone : Le transcutol est une préparation pharmaceutique peu répandue qui permet de faire pénétrer facilement les corps gras comme les huiles essentielles au niveau de la peau. Il peut être facilement remplacé par une huile végétale sèche comme l'huile végétale de Noisette, de Kukui, ou de Macadamia",
         "HE Gaultheria procumbens (Gaulthérie couchée) : 3 ml / HE Lavandula burnatii super (Lavandin super) : 2 ml / HE Rosmarinus officinalis camphora (Romarin à camphre) : 2 ml / HE Cananga odorata (Ylang-Ylang) : 2 ml / HE Artemisia dracunculus (Estragon) : 1 ml / HV Noisette : complément à 30 ml / Utilisation : 5 à 6 gouttes localement 3 à 4 fois par jour selon les besoins.",
-        "HE Eucalyptus citronné : 5 gouttes   HE Romarin à camphre : 5 gouttes   HE Gaulthérie couchée : 5 gouttes   Base pour bain de pied : 1 cuillère à soupeUtilisation : Trempez vos pieds deux fois par jour dans un bon bain chaud (38°C) pendant 10 minutes.",
-        "HE Thymus satureoides (Thym saturoides) : 1 ml   HE Gaultheria procumbens (Gaulthérie couchée) : 0.5 ml   HE Ocimum basilicum var basilicum (Basilic tropical) : 0.5 ml   HE Cananga odorata (Ylang-Ylang) : 0.5 ml   HE Laurus nobilis (Laurier noble) : 0.5 ml   HE Eucalyptus citriodora (Eucalyptus citronné) : 1 ml   HV Hypericum perforatum (Millepertuis) : 10 ml   HV Corylus avellana (Noisette) : complément à 30 mlUtilisation  : 6 à 8 gouttes 3 fois par jour, localement sur la zone douloureuseNote Aroma-Zone  : Le macérât huileux de Millepertuis présente des risques de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélange",
+        "HE Eucalyptus citronné : 5 gouttes /  HE Romarin à camphre : 5 gouttes  / HE Gaulthérie couchée : 5 gouttes /  Base pour bain de pied : 1 cuillère à soupeUtilisation : Trempez vos pieds deux fois par jour dans un bon bain chaud (38°C) pendant 10 minutes.",
+        "HE Thymus satureoides (Thym saturoides) : 1 ml /  HE Gaultheria procumbens (Gaulthérie couchée) : 0.5 ml  / HE Ocimum basilicum var basilicum (Basilic tropical) : 0.5 ml  / HE Cananga odorata (Ylang-Ylang) : 0.5 ml  / HE Laurus nobilis (Laurier noble) : 0.5 ml /  HE Eucalyptus citriodora (Eucalyptus citronné) : 1 ml /  HV Hypericum perforatum (Millepertuis) : 10 ml  / HV Corylus avellana (Noisette) : complément à 30 ml/Utilisation : 6 à 8 gouttes 3 fois par jour, localement sur la zone douloureuse/Note Aroma-Zone : Le macérât huileux de Millepertuis présente des risques de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélange",
         "HE Eucalyptus citriodora (Eucalyptus citronné) : 9 ml / HE Gaultheria procumbens (Gaulthérie) : 1 ml / Utilisation : Appliquez sur la zone douloureuse plusieurs fois par jour.",
-        "En massagesMélangez  : HE romarin à camphre 1 goutte   HE hélichryse italienne 1 goutte   HE menthe des champs 1 goutte   HE gaulthérie 1 goutte   HV millepertuis 3 gouttes   HV arnica 3 gouttesUtilisation  : Massez localement avec cette formule, 3 à 5 fois par jour pendant 2 à 3 jours si besoinNote Aroma-Zone  : Le macérât huileux de Millepertuis présente des risques de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélange"
+        "En massages /Mélangez :/ HE romarin à camphre 1 goutte  / HE hélichryse italienne 1 goutte /  HE menthe des champs 1 goutte /  HE gaulthérie 1 goutte  / HV millepertuis 3 gouttes  / HV arnica 3 gouttes/Utilisation : Massez localement avec cette formule, 3 à 5 fois par jour pendant 2 à 3 jours si besoin/Note Aroma-Zone : Le macérât huileux de Millepertuis présente des risques de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélange"
       ]
     },
     "ideal": [
-      "Arthrite, Arthrose, Rhumatismes",
-      "Entorse, Foulure",
+      "Arthrite", "Arthrose", "Rhumatismes",
+      "Entorse", "Foulure",
       "Mal de dos",
       "Migraine et mal de tête",
       "Sciatique",
@@ -5907,20 +5910,20 @@
         "Torticolis (D. Festy)"
       ],
       "recipesContent": [
-        "HE Artemisia dracunculus (Estragon) : 2 ml   HE Mentha piperita (Menthe Poivrée) : 2 ml   HE Lavandula latifolia spica (Lavande Aspic) : 3 ml   HE Gaultheria procumbens (Gaulthérie couchée) : 1 ml   HV Millepertuis : complément à 15 mlUtilisation : 3 gouttes localement jusqu'à améliorationNote Aroma-Zone  : Le macérât huileux de Millepertuis présente un risque de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélange",
+        "HE Artemisia dracunculus (Estragon) : 2 ml  / HE Mentha piperita (Menthe Poivrée) : 2 ml  / HE Lavandula latifolia spica (Lavande Aspic) : 3 ml /  HE Gaultheria procumbens (Gaulthérie couchée) : 1 ml  / HV Millepertuis : complément à 15 ml/Utilisation : 3 gouttes localement jusqu'à amélioration/Note Aroma-Zone : Le macérât huileux de Millepertuis présente un risque de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélange",
         "HE Gaulthérie : 1 goutte / HE Eucalyptus citronné : 2 gouttes / HE Genévrier commun : 1 goutte / Utilisation : 4 à 6 fois par jour localement.",
         "HE Gaulthérie couchée : 10 gouttes / HE Romarin officinal à cinéole :10 gouttes / HE Laurier noble : 5 gouttes / HV Macadamia : 15 ml / Utilisation : Quelques gouttes en massage doux des parties douloureuses. A répéter au besoin.",
-        "HE Genévrier : 5 gouttes   HE Térébenthine : 5 gouttes   HE Gaulthérie : 5 gouttes   HE Lavandin super : 5 gouttes   Base pour bain : 1 cuillère à soupeUtilisation : Versez tous les ingrédients dans un bain chaud (38,5°C) et restez dans l'eau pendant 20 minutes. Renouvelez chaque jour jusqu'à amélioration.",
-        "HE Satureia montana (Sarriette des montagnes): 1 ml   HE Thymus satureoides (Thym satureoides) : 2 ml   HE Gaultheria procumbens (Gaulthérie couchée) : 2 ml   HE Thymus vulgaris CT thujanol (Thym vulgaire à thujanol) : 0.5 ml   HE Lavandula x burnatii CT Super (Lavandin Super) : 4 ml   HE Eucalyptus polybractea CT Cryptone (Eucalyptus à cryptone) : 0.5 ml   Huile végétale : complément à 100 mlUtilisation  : 3 à 4 applications locales par jour pendant 15 jours (continuer si nécessaire) ET HE Picea mariana (Epinette Noire) : 3 ml   HE Pinus sylvestris ( Pin sylvestre) : 7 ml   Transcutol : complément à 30 mlUtilisation  : 8 gouttes en onctions surrénaliennes (au niveau des reins) 2 fois par jour Commentaire Aroma-Zone  : Le transcutol est une préparation pharmaceutique peu répandue qui permet de faire pénétrer facilement les corps gras comme les huiles essentielles au niveau de la peau. Il peut être facilement remplacé par une huile végétale sèche comme l'huile végétale de Noisette, de Kukui, ou de Macadamia",
+        "HE Genévrier : 5 gouttes  / HE Térébenthine : 5 gouttes /  HE Gaulthérie : 5 gouttes /  HE Lavandin super : 5 gouttes /  Base pour bain : 1 cuillère à soupeUtilisation : Versez tous les ingrédients dans un bain chaud (38,5°C) et restez dans l'eau pendant 20 minutes. Renouvelez chaque jour jusqu'à amélioration.",
+        "HE Satureia montana (Sarriette des montagnes): 1 ml /  HE Thymus satureoides (Thym satureoides) : 2 ml /  HE Gaultheria procumbens (Gaulthérie couchée) : 2 ml  / HE Thymus vulgaris CT thujanol (Thym vulgaire à thujanol) : 0.5 ml  / HE Lavandula x burnatii CT Super (Lavandin Super) : 4 ml  / HE Eucalyptus polybractea CT Cryptone (Eucalyptus à cryptone) : 0.5 ml /  Huile végétale : complément à 100 ml/Utilisation : / 3 à 4 applications locales par jour pendant 15 jours (continuer si nécessaire) ET HE Picea mariana (Epinette Noire) : 3 ml /  HE Pinus sylvestris ( Pin sylvestre) : 7 ml  / Transcutol : complément à 30 ml/Utilisation : 8 gouttes en onctions surrénaliennes (au niveau des reins) 2 fois par jour /Commentaire Aroma-Zone : Le transcutol est une préparation pharmaceutique peu répandue qui permet de faire pénétrer facilement les corps gras comme les huiles essentielles au niveau de la peau. Il peut être facilement remplacé par une huile végétale sèche comme l'huile végétale de Noisette, de Kukui, ou de Macadamia",
         "250 ml d’HV de Tournesol / 100 gouttes d’HE de Gaulthérie / 20 gouttes d’HE de Menthe poivrée / 50 gouttes d’HE de Lavande vraie / 50 gouttes d’HE de Laurier noble",
-        "HE Rosmarinus officinalis (Romarin): 2 ml   HE Ocimum basilicum (Basilic tropical): 5 ml   HE Juniperus communis (Genévrier): 3 ml   HE Helichrysum italicum (Helichryse italienne): 2 ml   HE Gaultheria procumbens (Gaultherie): 3 ml   HV Corylus avellana (Noisette): complément à 20 mlUtilisation  : Par voie cutanée, 4 gouttes du mélange en massage léger sur les articulations douloureuses, à répéter selon les besoins",
-        "HE Thymus satureoides (Thym saturoides) : 1 ml   HE Gaultheria procumbens (Gaulthérie couchée) : 0.5 ml   HE Ocimum basilicum var basilicum (Basilic tropical) : 0.5 ml   HE Cananga odorata (Ylang-Ylang) : 0.5 ml   HE Laurus nobilis (Laurier noble) : 0.5 ml   HE Eucalyptus citriodora (Eucalyptus citronné) : 1 ml   HV Hypericum perforatum (Millepertuis) : 10 ml   HV Corylus avellana (Noisette) : complément à 30 mlUtilisation  : 6 à 8 gouttes 3 fois par jour, localement sur la zone douloureuseNote Aroma-Zone  : Le macérât huileux de Millepertuis présente des risques de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélange",
-        "En massagesMélangez  : HE romarin à camphre 1 goutte   HE hélichryse italienne 1 goutte   HE menthe des champs 1 goutte   HE gaulthérie 1 goutte   HV millepertuis 3 gouttes   HV arnica 3 gouttesUtilisation  : Massez localement avec cette formule, 3 à 5 fois par jour pendant 2 à 3 jours si besoinNote Aroma-Zone  : Le macérât huileux de Millepertuis présente des risques de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélange"
+        "HE Rosmarinus officinalis (Romarin): 2 ml /  HE Ocimum basilicum (Basilic tropical): 5 ml /  HE Juniperus communis (Genévrier): 3 ml /  HE Helichrysum italicum (Helichryse italienne): 2 ml /  HE Gaultheria procumbens (Gaultherie): 3 ml /  HV Corylus avellana (Noisette): complément à 20 ml/Utilisation : Par voie cutanée, 4 gouttes du mélange en massage léger sur les articulations douloureuses, à répéter selon les besoins",
+        "HE Thymus satureoides (Thym saturoides) : 1 ml  / HE Gaultheria procumbens (Gaulthérie couchée) : 0.5 ml  / HE Ocimum basilicum var basilicum (Basilic tropical) : 0.5 ml /  HE Cananga odorata (Ylang-Ylang) : 0.5 ml  / HE Laurus nobilis (Laurier noble) : 0.5 ml /  HE Eucalyptus citriodora (Eucalyptus citronné) : 1 ml /  HV Hypericum perforatum (Millepertuis) : 10 ml /  HV Corylus avellana (Noisette) : complément à 30 ml/Utilisation : 6 à 8 gouttes 3 fois par jour, localement sur la zone douloureuse/Note Aroma-Zone : Le macérât huileux de Millepertuis présente des risques de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélange",
+        "En massages / Mélangez : HE romarin à camphre 1 goutte /  HE hélichryse italienne 1 goutte /  HE menthe des champs 1 goutte  / HE gaulthérie 1 goutte  / HV millepertuis 3 gouttes /  HV arnica 3 gouttes / Utilisation : Massez localement avec cette formule, 3 à 5 fois par jour pendant 2 à 3 jours si besoinNote Aroma-Zone  : Le macérât huileux de Millepertuis présente des risques de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélange"
       ]
     },
     "ideal": [
-      "Arthrite, Arthrose, Rhumatismes",
-      "Entorse, Foulure",
+      "Arthrite", "Arthrose", "Rhumatismes",
+      "Entorse", "Foulure",
       "Mal de dos",
       "Migraine et mal de tête",
       "Sciatique",
@@ -6031,11 +6034,11 @@
       ],
       "recipesContent": [
         "Traitement local  : HE Genévrier : 2 ml / HE Mandarine : 2 ml / HE Coriandre : 2 ml / MH Millepertuis : 30 ml / HV Olive : 30 ml / Utilisation : Massez doucement le plexus, la région hépatique et pancréatique. Renouvelez 1 à 2 fois dans le journée si nécessaireNote Aroma-Zone  : Le macérât huileux de Millepertuis présente un risque de photosensibilisation. Ne pas s'exposer au soleil après application de ce mélangeTraitement oral  : HE Genévrier : 1 goutte / HE Fenouil doux : 1 goutte / HE Coriandre : 1 goutte / Utilisation : Prenez une goutte de chaque HE dans une cuiller à dessert d'huile d'olive ou de miel ou dans un peu de mie de pain. Renouvelez ce traitement 1 à 2 fois dans la journée",
-        "HE Genévrier : 5 gouttes   HE Térébenthine : 5 gouttes   HE Gaulthérie : 5 gouttes   HE Lavandin super : 5 gouttes   Base pour bain : 1 cuillère à soupeUtilisation : Versez tous les ingrédients dans un bain chaud (38,5°C) et restez dans l'eau pendant 20 minutes. Renouvelez chaque jour jusqu'à amélioration.",
-        "HE Rosmarinus officinalis (Romarin): 2 ml   HE Ocimum basilicum (Basilic tropical): 5 ml   HE Juniperus communis (Genévrier): 3 ml   HE Helichrysum italicum (Helichryse italienne): 2 ml   HE Gaultheria procumbens (Gaultherie): 3 ml   HV Corylus avellana (Noisette): complément à 20 mlUtilisation  : Par voie cutanée, 4 gouttes du mélange en massage léger sur les articulations douloureuses, à répéter selon les besoins",
+        "HE Genévrier : 5 gouttes /  HE Térébenthine : 5 gouttes /  HE Gaulthérie : 5 gouttes /  HE Lavandin super : 5 gouttes /  Base pour bain : 1 cuillère à soupe/Utilisation : Versez tous les ingrédients dans un bain chaud (38,5°C) et restez dans l'eau pendant 20 minutes. Renouvelez chaque jour jusqu'à amélioration.",
+        "HE Rosmarinus officinalis (Romarin): 2 ml  / HE Ocimum basilicum (Basilic tropical): 5 ml /  HE Juniperus communis (Genévrier): 3 ml  / HE Helichrysum italicum (Helichryse italienne): 2 ml /  HE Gaultheria procumbens (Gaultherie): 3 ml /  HV Corylus avellana (Noisette): complément à 20 ml/Utilisation : Par voie cutanée, 4 gouttes du mélange en massage léger sur les articulations douloureuses, à répéter selon les besoins",
         "Absolue de Benjoin : 1 cuillère à café / HE Genévrier : 1 cuillère à café / HE Poivre noir : 1 demi cuillère à café / HE Gingembre : un quart cuillère à café / HE Romarin (à camphre) : un quart cuillère à café / Mode opératoire : Verser tous les ingrédients dans un compte-gouttes et agiter vigoureusement. Laisser reposer 4 jours avant utilisation, afin que les différentes substances amplifient leurs effets par synergie. / Utilisation : Verser 10 gouttes de produit ans 10 gouttes d'huile végétale. Ajouter le mélange dans un verre rempli de sel de magnésium, puis saupoudrer le tout dans l'eau du bain. Agiter pour bien mélanger, puis rester immergé pendant 15 à 30 minutes en massant doucement les membres douloureux.Pour un massage corporel, mélanger 14 gouttes de produit dans une cuillère à soupe d'huile de Pépins de raisin ou d'huile d'Amande douce. Faire pénétrer dans la peau en massant doucement.",
         "HE Hélichryse italienne : 2 ml / HE Eucalyptus mentholé : 2 ml / HE Romarin à cinéole : 5 ml / HE Cèdre de l'Atlas : 5 ml / HE Cyprès vert : 2 ml / HE Gaulthérie couchée : 2 ml / HE Genévrier : 3 ml / HE Thym à linalol : 2 ml / HV Noisette : 20 ml / Lait corporel hydratant et raffermissant : Qsp 100 ml / Utilisation: Appliquez en massages légers matin et soir, juste après la toilette.",
-        "Hydrolat de Cyprès : 50 ml   Hydrolat de Hélichryse italienne : 50 ml   Hydrolat de Genévrier : 50 ml   Hydrolat de Romarin à verbénone : 50 mlUtilisation  : 1 cuillère à soupe dans 1 litre d'eau à boire durant la journée, durant 40 jours; répéter si besoin est Voie externe  : HE Cyprès : 20 gouttes   HE Vétiver : 6 gouttes   HE Citron zeste : 10 gouttes   HE Genévrier : 10 gouttes   HE Romarin à verbénone : 6 gouttes   HV Noisette : 30 mlUtilisation  : En massage local sur les zones à traiter 2 fois par jourNote Aroma-Zone  : l'huile essentielle de Citron est photosensibilisante. Ne pas s'exposer au soleil après application de cette préparation. Nous vous conseillons de la remplacer par l'huile essentielle de Citron sans furocoumarines qui est dénuée de photoxicité"
+        "Hydrolat de Cyprès : 50 ml /  Hydrolat de Hélichryse italienne : 50 ml /  Hydrolat de Genévrier : 50 ml  / Hydrolat de Romarin à verbénone : 50 ml/Utilisation : 1 cuillère à soupe dans 1 litre d'eau à boire durant la journée, durant 40 jours; répéter si besoin est /Voie externe : HE Cyprès : 20 gouttes  / HE Vétiver : 6 gouttes /  HE Citron zeste : 10 gouttes /  HE Genévrier : 10 gouttes /  HE Romarin à verbénone : 6 gouttes /  HV Noisette : 30 ml/Utilisation : En massage local sur les zones à traiter 2 fois par jour/Note Aroma-Zone : l'huile essentielle de Citron est photosensibilisante. Ne pas s'exposer au soleil après application de cette préparation. Nous vous conseillons de la remplacer par l'huile essentielle de Citron sans furocoumarines qui est dénuée de photoxicité"
       ]
     },
     "ideal": ["Cellulite", "Arthrite, Arthrose, Rhumatismes"],
@@ -6446,7 +6449,7 @@
       ],
       "indicationsDesc": "Elle est traditionnellement utilisée pour améliorer les situations suivantes :",
       "indications": [
-        "Affections respiratoires : Bronchites, rhumes, rhinites, rhino-pharyngites, rhinites allergiques",
+        "Affections respiratoires : Bronchites, rhumes, rhinites, rhino-Pharyngites, rhinites allergiques",
         "Faiblesse immunitaire",
         "Fatigue nerveuse"
       ],
@@ -6621,7 +6624,7 @@
       ],
       "indicationsDesc": "Elle est traditionnellement utilisée pour améliorer les situations suivantes :",
       "indications": [
-        "Infections ORL : Bronchites aiguës, chroniques et asthmatiformes, rhinopharyngite, sinusite",
+        "Infections ORL : Bronchites aiguës, chroniques et asthmatiformes, rhinoPharyngite, sinusite",
         "Baisse de moral, Angoisses, fatigue"
       ],
       "synergies": [
@@ -6689,7 +6692,7 @@
       ],
       "indicationsDesc": "En complément des traitements et d'un suivi médical, elle est traditionnellement utilisée dans les cas suivants : ",
       "indications": [
-        "Troubles de la sphère ORL : grippe, Bronchite, rhinopharyngite, sinusite",
+        "Troubles de la sphère ORL : grippe, Bronchite, rhinoPharyngite, sinusite",
         "Douleurs musculaires ou articulaires (usage local externe) : crampes, élongations musculaires, Arthrite, Arthrose, Rhumatismes",
         "Préparation du muscle à l'effort",
         "Troubles circulatoires : varices, jambes lourdes",
@@ -6790,7 +6793,7 @@
         "HE Melaleuca quinquenervia cinéole (niaouli à cinéole) : 1 ml / HE Inula graveolens (Inule odorante) : 0,5 ml / HE Myrtus communis cinéole (Myrte à cinéole) : 3 ml / HE Cinnamomum camphora (Ravintsara) : 2 ml / HV Noisette : 3 ml / HV Jojoba : complément à 15 ml / Utilisation : Appliquez 5 à 6 gouttes du mélange sur le dos matin et midi et sur le thorax le soir pendant 3 à 4 jours."
       ]
     },
-    "ideal": ["Bronchite", "Laryngite, pharyngite", "Toux grasse"],
+    "ideal": ["Bronchite", "Laryngite, Pharyngite", "Toux grasse"],
     "utilisations": [
       "Actif cosmétique -",
       "Bain aromatique +",
@@ -8755,7 +8758,7 @@
         "Favorise l'apaisement des troubles d'origine nerveuse : respiratoires (toux...), digestifs (aérophagie, dyspepsie...), nerveux (stress, angoisse, nervosité, irritabilité...)",
         "Aide à l'apaisement et au confort articulaire et musculaire : Rhumatismes, Arthrose, lumbago, sciatique, crampes et contractures musculaires",
         "Fatigue générale et psychique",
-        "Infections respiratoires : rhinite, Bronchite, rhinopharyngite, sinusite"
+        "Infections respiratoires : rhinite, Bronchite, rhinoPharyngite, sinusite"
       ],
       "synergies": [
         "Tonique : huile essentielle de Ravintsara.",
@@ -8819,7 +8822,7 @@
       "Colère, Irritabilité",
       "Dépression (nerveuse), déprime",
       "Insomnie",
-      "Laryngite, pharyngite",
+      "Laryngite, Pharyngite",
       "Rhume, nez bouché, nez qui coule",
       "Stress"
     ],
@@ -8848,7 +8851,7 @@
       ],
       "indicationsDesc": "Elle est traditionnellement utilisée pour améliorer les situations suivantes : ",
       "indications": [
-        "Infections respiratoires et ORL : angine, Bronchite, laryngite, sinusite, rhinopharyngite, grippe",
+        "Infections respiratoires et ORL : angine, Bronchite, laryngite, sinusite, rhinoPharyngite, grippe",
         "Infections buccales : aphte, gingivite, stomatite, amygdalite, herpès",
         "Infections urinaires et gynécologiques : cystite, vulvite, vaginite, urétrite",
         "Spasmes et contractions de toute sorte : palpitations, spasmes digestifs, toux spasmodique",
@@ -8929,7 +8932,7 @@
       "Angine",
       "Bouton de fièvre, herpès",
       "Bronchite",
-      "Laryngite, pharyngite",
+      "Laryngite, Pharyngite",
       "Mycose",
       "Sinusite"
     ],
@@ -9601,7 +9604,7 @@
         "Inflammations des muqueuses",
         "Infections urinaires, rénales (en complément d'un traitement antibactérien adapté)",
         "Inconfort des voies génitales",
-        "Psoriasis, eczéma",
+        "Psoriasis", "Eczéma",
         "Cicatrisation cutanée : brûlures, cicatrices chéloïdes, vergetures",
         "Cicatrisation des muqueuses"
       ],
@@ -10096,7 +10099,7 @@
     ],
     "recipes": {
       "recipesTitle": [
-        "Rhino-pharyngite chez l'adulte  (T. Telphon)",
+        "Rhino-Pharyngite chez l'adulte  (T. Telphon)",
         "Grippes, rhumes  (Aroma News - NARD)",
         "Toux (Bronchite, laryngite) (T. Telphon)",
         "Toux sèche, spasmodique (Aroma News - NARD)",
@@ -10377,7 +10380,7 @@
       "Brûlure (coup de soleil,…)",
       "Grippe",
       "Jambes lourdes, varices",
-      "Laryngite, pharyngite",
+      "Laryngite, Pharyngite",
       "Otite",
       "Rhume, nez bouché, nez qui coule"
     ],
@@ -10698,7 +10701,7 @@
       "Infection urinaire",
       "Infections cutanées",
       "Gastro et infections intestinales",
-      "Laryngite, pharyngite",
+      "Laryngite, Pharyngite",
       "Mycose"
     ],
     "utilisations": [
@@ -10877,7 +10880,7 @@
       "indications": [
         "Mycoses cutanées, digestives et gynécologiques",
         "Affections uro-génitales : cystites",
-        "Rhinopharyngites, Sinusites, Otites",
+        "RhinoPharyngites, Sinusites, Otites",
         "Affections cutanées : plaies, eczéma, escarres"
       ],
       "synergies": []
@@ -11960,7 +11963,7 @@
       ],
       "indicationsDesc": "L'huile essentielle de Ravintsara est traditionnellement utilisée pour améliorer les situations suivantes :",
       "indications": [
-        "Grippes, rhumes, Bronchites, rhinopharyngites, refroidissements, Sinusites",
+        "Grippes, rhumes, Bronchites, rhinoPharyngites, refroidissements, Sinusites",
         "Mononucléose infectieuse",
         "Zona, herpès",
         "Gastro-entérite virale",
@@ -12043,7 +12046,7 @@
       "Immunité (Stimuler lʹ)",
       "Grippe",
       "Insomnie",
-      "Laryngite, pharyngite",
+      "Laryngite, Pharyngite",
       "Rhume, nez bouché, nez qui coule",
       "Sinusite",
       "Stress"
@@ -12940,7 +12943,7 @@
       "Infection urinaire",
       "Infections cutanées",
       "Gastro et infections intestinales",
-      "Laryngite, pharyngite"
+      "Laryngite, Pharyngite"
     ],
     "utilisations": [
       "Bain aromatique -",
@@ -13266,7 +13269,7 @@
       "indicationsDesc": "L'huile essentielle de Tea tree est traditionnellement utilisée pour améliorer les situations suivantes : ",
       "indications": [
         "Infections buccales : aphtes, abcès, gingivites, caries, parodontites",
-        "Infections O.R.L. : rhumes, Bronchites, Otites, Sinusites, angines, rhinopharyngites, maux de gorge, laryngites",
+        "Infections O.R.L. : rhumes, Bronchites, Otites, Sinusites, angines, rhinoPharyngites, maux de gorge, laryngites",
         "Infections gynécologiques ou urinaires : mycoses, vaginites, cystites, urétrites",
         "Infections cutanées : abcès cutanés, furoncles, herpès, bouton de fièvre",
         "Prévention des brûlures cutanées causées par la radiothérapie",
@@ -13515,7 +13518,7 @@
       "indications": [
         "Mycoses",
         "Infections gynécologiques : vaginites, cervicites",
-        "Infections ORL : Sinusites, Otites, rhinopharyngites",
+        "Infections ORL : Sinusites, Otites, rhinoPharyngites",
         "Infections urinaires : cystites, urétrites",
         "Affections cutanées : eczéma, abcès, furoncle, brûlure superficielle, piqûre d'insecte",
         "Fatigue"
@@ -13595,7 +13598,7 @@
       ],
       "indicationsDesc": "Elle est traditionnellement utilisée pour améliorer les situations suivantes : ",
       "indications": [
-        "Affections de l'appareil respiratoire: Bronchite, pharyngite, toux…",
+        "Affections de l'appareil respiratoire: Bronchite, Pharyngite, toux…",
         "Inflammations intestinales : gastrite, entérocolite, colite",
         "Infections urinaires et gynécologiques",
         "Fatigues nerveuses et cérébrales, convalescences",
@@ -13663,7 +13666,7 @@
       ],
       "indicationsDesc": "Elle est traditionnellement utilisée pour améliorer les situations suivantes : ",
       "indications": [
-        "Affections de l'appareil respiratoire : Bronchite, pharyngite, toux…",
+        "Affections de l'appareil respiratoire : Bronchite, Pharyngite, toux…",
         "Inflammations intestinales : gastrite, entérocolite, colite",
         "Infections urinaires et gynécologiques",
         "Fatigues nerveuses et cérébrales, convalescences",
@@ -13731,7 +13734,7 @@
       ],
       "indicationsDesc": "Elle est traditionnellement utilisée pour améliorer les situations suivantes : ",
       "indications": [
-        "Infections respiratoires et ORL : rhinopharyngite, angine, Bronchite, sinusite, Otite, rhinite, grippe",
+        "Infections respiratoires et ORL : rhinoPharyngite, angine, Bronchite, sinusite, Otite, rhinite, grippe",
         "Infections buccales : aphte, herpès, gingivite, stomatite, amygdalite",
         "Infections urinaires : cystite, vulvite, vaginite, urétrite",
         "Infections gynécologiques : salpingite",
@@ -13807,7 +13810,7 @@
       "Angine",
       "Bouton de fièvre, herpès",
       "Bronchite",
-      "Laryngite, pharyngite",
+      "Laryngite, Pharyngite",
       "Rhume, nez bouché, nez qui coule",
       "Maladie de Raynaud"
     ],
@@ -13833,7 +13836,7 @@
       ],
       "indicationsDesc": "Elle est traditionnellement utilisée pour améliorer les situations suivantes : ",
       "indications": [
-        "Infections ORL : Bronchite, pharyngite, rhume, toux, sinusite, angine...",
+        "Infections ORL : Bronchite, Pharyngite, rhume, toux, sinusite, angine...",
         "Infections intestinales : dysentéries,  diarrhées",
         "Infections urinaires : cystite, urétrite",
         "Infections cutanées : mycoses et dermatoses infectieuses / Infections buccales",
@@ -13955,7 +13958,7 @@
       "Infection urinaire",
       "Infections cutanées",
       "Gastro et infections intestinales",
-      "Laryngite, pharyngite",
+      "Laryngite, Pharyngite",
       "Vers intestinaux"
     ],
     "utilisations": [
