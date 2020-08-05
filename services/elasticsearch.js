@@ -21,7 +21,7 @@ const buildFullTextSearchQuery = (terms, offset) => {
     from: offset,
     query: {
       "query_string": {
-        fields: [ "name", "ideal", "*indicationsDesc", "*indications" ], 
+        fields: [ "name", "ideal", "*indicationsDesc", "*indications","*properties" ], 
         query: queryString,
         analyzer: "simple",
         default_operator: "AND"
