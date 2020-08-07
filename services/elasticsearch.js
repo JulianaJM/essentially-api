@@ -78,7 +78,7 @@ module.exports = {
               "name",
               "ideal",
               "*indications",
-              "*indicationsDesc"
+              "*indicationsDesc",
             ],
           },
         },
