@@ -3,13 +3,6 @@ const elasticsearchService = require("../services/elasticsearch");
 
 const router = express.Router();
 
-const getSearchValues = (values) => {
-  return values.map((param) => {
-    const decode = decodeURI(param);
-    return decode.trim();
-  });
-};
-
 router.get("/oils", function (req, res) {
   elasticsearchService
     .searchAll()
@@ -32,7 +25,7 @@ router.get("/oils/randomlist", function (req, res) {
 
 router.get("/oils/results", function (req, res) {
   const { values, offset } = req.query;
-  const termsOfSearch = getSearchValues(values);
+  const termsOfSearch = decodeURI(values);
   elasticsearchService
     .search(termsOfSearch, offset)
     .then((results) => {
