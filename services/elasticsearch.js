@@ -11,11 +11,26 @@ module.exports = {
         from: offset,
         query: {
           "query_string": {
-            fields: [ "name^4", "ideal", "*indicationsDesc", "*indications","*properties" ], 
+            fields: [ "name^10", "ideal^4", "*indicationsDesc", "*indications","*properties","*synergies" ], 
             query: `*${terms}*`,
             analyzer: "simple",
             default_operator: "AND"
           }
+        }
+      }
+    });
+  },
+
+  searchRecipe: function (terms) {
+    return client.search({
+      index: INDEX,
+      body: {
+        "query": {
+          "terms": {
+            "recipes.recipesTitle": [ terms ],
+            "boost": 1.0
+          }
+          
         }
       }
     });

@@ -38,6 +38,22 @@ router.get("/oils/results", function (req, res) {
     });
 });
 
+
+router.get("/oils/recipe/results", function (req, res) {
+  const { values } = req.query;
+  const termsOfSearch = decodeURI(values);
+  elasticsearchService
+    .searchRecipe(termsOfSearch)
+    .then((results) => {
+      // console.log(results.hits.hits);
+      res.json(results.hits);
+    })
+    .catch((err) => {
+      console.log(err);
+      res.send(err);
+    });
+});
+
 router.get("/oils/name", function (req, res) {
   elasticsearchService
     .searchByName(req.query.value)
