@@ -22,7 +22,7 @@ module.exports = {
   },
 
   searchRecipe: function (terms) {
-    const newTerms = terms.split(" ");
+    const newTerms = terms.split(",");
     return client.search({
       index: INDEX,
       body: {
