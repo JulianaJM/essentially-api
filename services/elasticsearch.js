@@ -22,12 +22,13 @@ module.exports = {
   },
 
   searchRecipe: function (terms) {
+    const newTerms = terms.split(" ");
     return client.search({
       index: INDEX,
       body: {
         "query": {
           "terms": {
-            "recipes.recipesTitle": [ terms ],
+            "recipes.recipesTitle": newTerms,
             "boost": 1.0
           }
           
