@@ -27,7 +27,7 @@ cd src/resources (or archives)
     go to dir elasticsearch-7.1.1/config/elasticsearch.yml
     http.cors.allow-origin: "\*" (remove \ of \*)
     http.cors.enabled: true
-#### delete data
+#### delete data locally 2
 
 curl -X DELETE "localhost:9200/index_name"
 
