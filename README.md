@@ -2,49 +2,57 @@
 
 api for essential oils
 
-### Elasticsearch local server:
+## Installation
 
-download elasticsearch-7.1.1
-cd elasticsearch-7.1.1/bin
-./elasticsearch
+- download and start elasticsearch server locally (elasticsearch-7.1.1):
+  ```bash
+  cd elasticsearch-7.1.1/bin
+  ./elasticsearch
+  ```
+  - Handle cors:
+    - go to dir elasticsearch-7.1.1/config/elasticsearch.yml and add those two lines :
+      - http.cors.allow-origin: "\*"
+      - http.cors.enabled: true
+- copy on the root directory the file in \_config_sample directory and rename it to .env
+- install dependencies : `yarn install`
+- start server : `yarn start` or `yarn dev`
+- you can now go to http://localhost:3000/api/oils
 
+<!--
 #### insert local data
-
-cd src/datasouce
+cd src/resources
 node init-data.js
+!-->
 
-curl insert examples :
+## Examples of usage with curl
+
+### insert data :
 
 cd src/resources (or archives)
 
 - Création index + import mapping :
   curl -XPUT -H "Content-Type: application/json" localhost:9200/oilsdetails -d @oils-details-mapping.json
 
-- Import json file (remove \ of \_bulk)
+- Import json file
   curl -XPOST "localhost:9200/\_bulk?pretty" -H 'Content-Type: application/x-ndjson' --data-binary @oils-details_elastic.json
 
-  - Handle cors
-    go to dir elasticsearch-7.1.1/config/elasticsearch.yml
-    http.cors.allow-origin: "\*" (remove \ of \*)
-    http.cors.enabled: true
-
-#### delete data
+### delete data :
 
 curl -X DELETE "localhost:9200/index_name"
 
-http://localhost:9200/oils/_search?size=200
+http://localhost:9200/oils/\_search?size=200
 
-http://localhost:9200/oils/_search?q=Copahu&pretty
+http://localhost:9200/oils/\_search?q=Copahu&pretty
 
-http://localhost:9200/oils/_search?q=oil=copahu&pretty
+http://localhost:9200/oils/\_search?q=oil=copahu&pretty
 
-http://localhost:9200/oils/_search?q=properties:peau sèche&pretty
+http://localhost:9200/oils/\_search?q=properties:peau sèche&pretty
 
-http://localhost:9200/oils/_search?q=health.properties:Antiseptique%20AND%20health.synergies:lavande&pretty
+http://localhost:9200/oils/\_search?q=health.properties:Antiseptique%20AND%20health.synergies:lavande&pretty
 
-http://localhost:9200/oils/_search?q=health.properties:Antiseptique%20AND%20-health.synergies:lavande&pretty
+http://localhost:9200/oils/\_search?q=health.properties:Antiseptique%20AND%20-health.synergies:lavande&pretty
 
-### utils
+## Documentation
 
 https://www.elastic.co/guide/en/elasticsearch/reference/current/elasticsearch-intro.html
 

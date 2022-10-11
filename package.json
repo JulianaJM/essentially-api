@@ -11,11 +11,6 @@
     "dev": "nodemon ./server/www",
     "dev:debug": "nodemon --inspect ./server/www"
   },
-  "engines": {
-    "node": "10.16.3",
-    "npm": "6.10.3",
-    "yarn": "1.17.3"
-  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.0.0",

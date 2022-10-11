@@ -7,22 +7,22 @@ const INDEX = "oils";
 const createIndexAndMapping = () => {
   return client.indices
     .create({
-      index: INDEX
+      index: INDEX,
     })
     .then(() => {
       return client.indices.putMapping({
         index: INDEX,
-        body: mapping
+        body: mapping,
       });
     })
-    .catch(err => {
+    .catch((err) => {
       log.error("creation index error", err);
     });
 };
 
 const bulk = [];
 const makeBulk = (oils, callback) => {
-  oils.forEach(oil => {
+  oils.forEach((oil) => {
     bulk.push({ index: { _index: INDEX } }, { ...oil });
   });
   callback(bulk);
@@ -31,7 +31,7 @@ const makeBulk = (oils, callback) => {
 const indexall = (madebulk, callback) => {
   client.bulk(
     {
-      body: madebulk
+      body: madebulk,
     },
     (err, resp /* , status */) => {
       if (err) {
@@ -48,21 +48,21 @@ const deleteIndex = () => {
 };
 
 const initCluster = () => {
-  client.indices.exists({ index: INDEX }).then(exists => {
+  client.indices.exists({ index: INDEX }).then((exists) => {
     if (exists) {
       log.info("delete index");
       deleteIndex();
     }
     createIndexAndMapping()
       .then(() => {
-        makeBulk(oils, response => {
+        makeBulk(oils, (response) => {
           log.info("Bulk content prepared");
-          indexall(response, function(response) {
+          indexall(response, function (response) {
             log.info(response);
           });
         });
       })
-      .catch(err => {
+      .catch((err) => {
         log.error("bulk crask", err);
       });
   });

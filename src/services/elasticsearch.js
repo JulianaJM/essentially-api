@@ -10,14 +10,21 @@ module.exports = {
       body: {
         from: offset,
         query: {
-          "query_string": {
-            fields: [ "name^10", "ideal^4", "*indicationsDesc", "*indications","*properties","*synergies" ], 
+          query_string: {
+            fields: [
+              "name^10",
+              "ideal^4",
+              "*indicationsDesc",
+              "*indications",
+              "*properties",
+              "*synergies",
+            ],
             query: `*${terms}*`,
             analyzer: "simple",
-            default_operator: "AND"
-          }
-        }
-      }
+            default_operator: "AND",
+          },
+        },
+      },
     });
   },
 
@@ -26,14 +33,13 @@ module.exports = {
     return client.search({
       index: INDEX,
       body: {
-        "query": {
-          "terms": {
+        query: {
+          terms: {
             "recipes.recipesTitle": newTerms,
-            "boost": 1.0
-          }
-          
-        }
-      }
+            boost: 1.0,
+          },
+        },
+      },
     });
   },
 
@@ -71,10 +77,7 @@ module.exports = {
           query_string: {
             query: `"${term}~"`,
             minimum_should_match: 2,
-            fields: [
-              "name",
-              "ideal",
-            ],
+            fields: ["name", "ideal"],
           },
         },
       },

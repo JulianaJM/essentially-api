@@ -38,7 +38,6 @@ router.get("/oils/results", function (req, res) {
     });
 });
 
-
 router.get("/oils/recipe/results", function (req, res) {
   const { values } = req.query;
   const termsOfSearch = decodeURI(values);
