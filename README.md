@@ -2,17 +2,27 @@
 
 api for essential oils
 
+## Version
+
+- Node 16+
+- Yarn 1.22+
+
 ## Installation
 
 - download and start elasticsearch server locally (elasticsearch-7.1.1):
+
+  - go to dir elasticsearch-7.1.1/config/elasticsearch.yml and add those lines :
+    - Handle cors:
+      - `http.cors.allow-origin: "\*"`
+      - `http.cors.enabled: true`
+    - JVM issue:
+      - `xpack.ml.enabled: false`
+
   ```bash
   cd elasticsearch-7.1.1/bin
   ./elasticsearch
   ```
-  - Handle cors:
-    - go to dir elasticsearch-7.1.1/config/elasticsearch.yml and add those two lines :
-      - http.cors.allow-origin: "\*"
-      - http.cors.enabled: true
+
 - copy on the root directory the file in \_config_sample directory and rename it to .env
 - install dependencies : `yarn install`
 - start server : `yarn start` or `yarn dev`
@@ -23,6 +33,10 @@ api for essential oils
 cd src/resources
 node init-data.js
 !-->
+
+## Troubleshooting
+
+- if you have elasticsearch issue install java version less than 15
 
 ## Examples of usage with curl
 
