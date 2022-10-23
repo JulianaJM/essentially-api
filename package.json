@@ -5,13 +5,19 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
-    "start": "node ./server/www",
-    "dev": "nodemon ./server/www",
-    "dev:debug": "nodemon --inspect ./server/www"
+    "start": "node build/index.js",
+    "dev": "NODE_ENV=development nodemon build/index.js",
+    "dev:debug": "nodemon --inspect build/index.js",
+    "build:dev": "NODE_ENV=development webpack --watch",
+    "build": "webpack",
+    "test": "jest",
+    "test:watch": "yarn test --watch",
+    "test:coverage": "yarn test --coverage"
   },
   "dependencies": {
+    "@types/express": "^4.17.14",
     "body-parser": "^1.20.1",
     "dotenv": "^8.6.0",
     "elasticsearch": "^16.7.3",
@@ -20,10 +26,32 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.6",
+    "@babel/node": "^7.19.1",
+    "@babel/preset-env": "^7.19.4",
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/jest": "^29.2.0",
+    "@types/node": "^18.11.4",
+    "@types/webpack": "^5.28.0",
     "cheerio": "^1.0.0-rc.12",
+    "clean-webpack-plugin": "^4.0.0",
+    "concurrently": "^7.5.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "declaration-bundler-webpack-plugin": "^1.0.3",
     "fs": "^0.0.1-security",
-    "nodemon": "^1.19.4",
+    "jest": "^29.2.1",
+    "nodemon": "^2.0.20",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6"
+    "request-promise": "^4.2.6",
+    "supertest": "^6.3.0",
+    "ts-jest": "^29.0.3",
+    "ts-loader": "^9.4.1",
+    "typescript": "^4.8.4",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-node-externals": "^3.0.0",
+    "webpack-shell-plugin-next": "^2.2.2"
   }
 }

@@ -1,9 +1,10 @@
 #!/usr/bin/env node
 
-const http = require("http");
-const app = require("../app");
+import http from "http";
+import app from "./app";
+import { Request, Response, NextFunction, Errback } from "express";
 
-app.use((err, req, res, next) => {
+app.use((err: Errback, req: Request, res: Response, next: NextFunction) => {
   // always log the error
   console.error("ERROR", req.method, req.path, err);
 
@@ -16,7 +17,7 @@ app.use((err, req, res, next) => {
 
 const server = http.createServer(app);
 
-server.on("error", error => {
+server.on("error", (error:NodeJS.ErrnoException) => {
   if (error.syscall !== "listen") {
     throw error;
   }
@@ -36,6 +37,16 @@ server.on("error", error => {
   }
 });
 
-server.listen(process.env.PORT, () => {
+
+/*
+export the app variable as a default export and only start the server 
+if the file is being executed as opposed to being imported.
+*/
+if (require.main === module) { // true if file is executed
+  server.listen(process.env.PORT, () => {
   console.log(`Listening on http://localhost:${process.env.PORT}`);
 });
+}
+
+
+

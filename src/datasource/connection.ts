@@ -4,4 +4,4 @@ const client = new Client({
   //log: "trace"
 });
 
-module.exports = client;
+export default client;

@@ -1,6 +1,6 @@
-const client = require("../datasource/connection.js");
-const mapping = require("./oils-details-mapping.json");
-const oils = require("./oils-details.json");
+import client from "../datasource/connection";
+import mapping from "./oils-details-mapping.json";
+import oils from "./oils-details.json";
 const log = require("log");
 const INDEX = "oils";
 
@@ -15,7 +15,7 @@ const createIndexAndMapping = () => {
         body: mapping,
       });
     })
-    .catch((err) => {
+    .catch((err:Error) => {
       log.error("creation index error", err);
     });
 };
@@ -62,10 +62,10 @@ const initCluster = () => {
           });
         });
       })
-      .catch((err) => {
+      .catch((err:Error) => {
         log.error("bulk crask", err);
       });
   });
 };
 
-module.exports = initCluster;
+export default initCluster;
