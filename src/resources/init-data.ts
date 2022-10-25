@@ -1,8 +1,8 @@
-import client from "../datasource/connection";
-import mapping from "./oils-details-mapping.json";
-import oils from "./oils-details.json";
-const log = require("log");
-const INDEX = "oils";
+import client from '../datasource/connection';
+import mapping from './oils-details-mapping.json';
+import oils from './oils-details.json';
+const log = require('log');
+const INDEX = 'oils';
 
 const createIndexAndMapping = () => {
   return client.indices
@@ -15,8 +15,8 @@ const createIndexAndMapping = () => {
         body: mapping,
       });
     })
-    .catch((err:Error) => {
-      log.error("creation index error", err);
+    .catch((err: Error) => {
+      log.error('creation index error', err);
     });
 };
 
@@ -50,20 +50,20 @@ const deleteIndex = () => {
 const initCluster = () => {
   client.indices.exists({ index: INDEX }).then((exists) => {
     if (exists) {
-      log.info("delete index");
+      log.info('delete index');
       deleteIndex();
     }
     createIndexAndMapping()
       .then(() => {
         makeBulk(oils, (response) => {
-          log.info("Bulk content prepared");
+          log.info('Bulk content prepared');
           indexall(response, function (response) {
             log.info(response);
           });
         });
       })
-      .catch((err:Error) => {
-        log.error("bulk crask", err);
+      .catch((err: Error) => {
+        log.error('bulk crask', err);
       });
   });
 };

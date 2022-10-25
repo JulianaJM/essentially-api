@@ -1,6 +1,6 @@
-const { Client } = require("elasticsearch");
+const { Client } = require('elasticsearch');
 const client = new Client({
-  host: process.env.BONSAI_URL
+  host: process.env.BONSAI_URL,
   //log: "trace"
 });
 
