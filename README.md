@@ -25,7 +25,8 @@ api for essential oils
 
 - copy on the root directory the file in `_config_sample` directory and rename it to .env
 - install dependencies : `yarn install`
-- start server : `yarn start` or `yarn dev`
+- build (watch mode) : `yarn build:dev`
+- start server : `yarn dev`
 - you can now go to http://localhost:3000/api/oils
 
 <!--
