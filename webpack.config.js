@@ -1,23 +1,24 @@
-const path = require("path");
-const nodeExternals = require("webpack-node-externals");
-const WebpackShellPlugin = require("webpack-shell-plugin-next");
-const DeclarationBundlerPlugin = require("./declaration-bundler-webpack-plugin.fix");
-const { CleanWebpackPlugin } = require("clean-webpack-plugin");
-const UglifyJSPlugin = require("uglifyjs-webpack-plugin");
+const path = require('path');
+const nodeExternals = require('webpack-node-externals');
+const WebpackShellPlugin = require('webpack-shell-plugin-next');
+const DeclarationBundlerPlugin = require('./declaration-bundler-webpack-plugin.fix');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
+const Dotenv = require('dotenv-webpack');
 
-const { NODE_ENV = "production" } = process.env;
+const { NODE_ENV = 'production' } = process.env;
 module.exports = {
   entry: {
-    index: path.resolve(__dirname, "./src/index.ts"),
+    index: path.resolve(__dirname, './src/index.ts'),
   },
   mode: NODE_ENV,
-  target: "node",
+  target: 'node',
   output: {
-    path: path.resolve(__dirname, "build"),
-    filename: "index.js",
+    path: path.resolve(__dirname, 'build'),
+    filename: 'index.js',
   },
   resolve: {
-    extensions: [".ts", ".js"],
+    extensions: ['.ts', '.js'],
   },
   module: {
     rules: [
@@ -25,7 +26,7 @@ module.exports = {
         test: /\.ts$/,
         use: [
           {
-            loader: "ts-loader",
+            loader: 'ts-loader',
             options: {
               transpileOnly: true /*ignore typescript error */,
             },
@@ -34,9 +35,9 @@ module.exports = {
       },
     ],
   },
-  devtool: "source-map",
+  devtool: 'source-map',
   externals: [nodeExternals()],
-  watch: NODE_ENV === "development",
+  watch: NODE_ENV === 'development',
   plugins: [
     new CleanWebpackPlugin(),
     new UglifyJSPlugin(),
@@ -45,7 +46,8 @@ module.exports = {
       out: "@types/index.d.ts",
     }),*/
     new WebpackShellPlugin({
-      onBuildEnd: ["yarn run:dev"],
+      onBuildEnd: ['yarn run:dev'],
     }),
+    new Dotenv(),
   ],
 };

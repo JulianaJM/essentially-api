@@ -44,6 +44,6 @@ if the file is being executed as opposed to being imported.
 if (require.main === module) {
   // true if file is executed
   server.listen(process.env.PORT, () => {
-    console.log(`Listening on http://localhost:${process.env.PORT}`);
+    console.log(`Listening on http://localhost:${process.env.PORT}/api/oils`);
   });
 }
