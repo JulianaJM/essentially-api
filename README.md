@@ -9,19 +9,47 @@ api for essential oils
 
 ## Installation
 
-- download and start elasticsearch server locally (elasticsearch-7.1.1):
+#### elsasticsearch
 
-  - go to dir elasticsearch-7.1.1/config/elasticsearch.yml and add those lines :
+- standalone:
+
+  - download and start elasticsearch server locally (elasticsearch-8.4.3):
+
+  - go to dir elasticsearch-8.4.3/config/elasticsearch.yml and add those lines :
+
+    - Disable security:
+    - `xpack.security.enabled: false`
+    - `xpack.security.enrollment.enabled: false`
+    - `xpack.security.http.ssl:`
+
+      - `enabled: false`
+
+    - `xpack.security.transport.ssl:`
+
+      - `enabled: false`
+
     - Handle cors:
-      - `http.cors.allow-origin: "*"`
-      - `http.cors.enabled: true`
+    - `http.cors.allow-origin: "*"`
+    - `http.cors.enabled: true`
     - JVM issue:
-      - `xpack.ml.enabled: false`
+    - `xpack.ml.enabled: false`
 
   ```bash
-  cd elasticsearch-7.1.1/bin
+  cd elasticsearch-8.4.3/bin
   ./elasticsearch
   ```
+
+- with docker (https://www.elastic.co/guide/en/elasticsearch/reference/8.4/docker.html#docker-cli-run-dev-mode)
+
+  - security disabled tips (https://levelup.gitconnected.com/how-to-run-elasticsearch-8-on-docker-for-local-development-401fd3fff829)
+
+  ```
+  docker pull docker.elastic.co/elasticsearch/elasticsearch:8.4.3
+  docker network create elastic
+  docker run --name es01 --net elastic -p 9200:9200 -p 9300:9300 -e discovery.type=single-node -e xpack.security.enabled=false -e http.cors.allow-origin="\*" -e http.cors.enabled=true -it docker.elastic.co/elasticsearch/elasticsearch:8.4.3
+  ```
+
+#### run app
 
 - copy on the root directory the file in `_config_sample` directory and rename it to .env
 - install dependencies : `yarn install`
