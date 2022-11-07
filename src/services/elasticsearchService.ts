@@ -26,7 +26,7 @@ export default class ElasticsearchService {
           },
         },
       },
-    }); 
+    });
   }
 
   static searchRecipe(term: string) {
@@ -96,7 +96,6 @@ export default class ElasticsearchService {
               {
                 random_score: {
                   seed: '1518707649', // FIXME Pass the user’s session ID as the seed, to make randomization consistent for that user. The same seed will result in the same randomization.
-                  field: "_seq_no"
                 },
               },
             ],

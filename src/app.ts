@@ -1,26 +1,34 @@
 'use strict';
+import dotenv from 'dotenv';
 import bodyParser from 'body-parser';
 import express, { Application, NextFunction, Request, Response } from 'express';
 import elasticsearch from './datasource/connection';
 import initCluster from './resources/init-data';
 import routes from './routes/router';
 
-const logger = require('morgan');
-
 interface ErrorWithStatus extends Error {
   status: number;
 }
 
+const logger = require('morgan');
+dotenv.config();
+
 const app: Application = express();
-
 // ping the client to be sure Elasticsearch is up
-elasticsearch.ping({}, { requestTimeout: 30000 }).then(() => {
-    console.log('elasticsearch cluster is ok');
-    initCluster();
-}).catch(() => {
-    console.error('elasticsearch cluster is down!');
-})
-
+elasticsearch.ping(
+  {
+    requestTimeout: 30000,
+  },
+  function (error: Error) {
+    // at this point, eastic search is down, please check your Elasticsearch service
+    if (error) {
+      console.error('elasticsearch cluster is down!');
+    } else {
+      console.log('elasticsearch cluster is ok');
+      initCluster();
+    }
+  }
+);
 // Middleware Setup
 app.use(logger('dev'));
 app.use(bodyParser.json());
@@ -36,8 +44,6 @@ app.use(function (req, res, next) {
     'Access-Control-Allow-Headers',
     'Origin, X-Requested-With, Content-Type, Accept, Authorization'
   );
-  res.header('Content-Type', 'application/json');
-
   // handle cache
   res.set('Cache-Control', 'no-store');
   next();

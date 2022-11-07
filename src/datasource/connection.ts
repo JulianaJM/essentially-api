@@ -1,6 +1,7 @@
-const { Client } = require('@elastic/elasticsearch')
+const { Client } = require('elasticsearch');
 const client = new Client({
-    node: process.env.BONSAI_URL,
+  host: process.env.BONSAI_URL,
+  //log: "trace"
 });
 
 export default client;
